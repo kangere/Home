@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="AEGON V TARGARYEN"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aegon V ruled wisely and well, but he had three major weaknesses. The first was that due to his years travelling across Westeros with Ser Duncan, he gained a great concern for the welfare of the Smallfolk, yet opinions about this varied. Commoners remember him as a great king who was genuinely concerned about their well-being, who ensured their economic livelihoods by raising taxes on aristocrats and wealthy merchants, and who punished lords who abused the rights of the commoners they ruled over. The nobility of the Seven Kingdoms, meanwhile, grew to resent Aegon V - for exactly the same reasons. Second, Aegon V indulged his sons: having married for love himself, he permitted his sons to do the same, although this was not politically wise and made him enemies within the Seven Kingdoms. The nobility was already growing to resent him for his liberal policies with the smallfolk, and a marriage-alliance with one of the Great Houses would have helped to stabilize Targaryen rule.
+
+Third, Aegon V also had an overwhelming obsession with hatching the surviving Targaryen dragon eggs. These last two weaknesses culminated in 259 AL at the so-called 'Tragedy of Summerhall'. This was a fire that got out of control and destroyed the castle, killing Aegon V, Ser Duncan the Tall and Prince Duncan the Small. On the same night, Aegon's great-grandson Rhaegar Targaryen was born.Aegon's son, Aerys II Targaryen, becomes king."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

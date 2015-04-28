@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/reHeader"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.R&apos;hllor"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" The religion of the Lord of Light is centered on belief in the existence of a single, all-powerful god. R&apos;hllor is the god of fire, which provides light, heat, and life, and struggles against darkness, cold, and death, represented by an opposing deity, the Great Other.
+Due to the dualistic worldview of this religion, its more fanatical followers believe the Lord of Light is the &apos;one true god&apos;, and all other gods from other religions - The Old Gods of the Forest, the Faith of the Seven, the Drowned God, etc. - are demons and false idols that must be cast down and burned. 
+Most of the worship practices of the Lord of Light involve fire. This can range from simple bonfires, to some extreme cases advocating the sacrifice of nonbelievers by immolation. The symbol of the Lord of Light is a fiery heart. The religion is led by the &apos;Red Priests&apos;, though both men and women can join the priesthood.
+In temples of the Lord of Light, Red Priests conduct bonfires and sing prayers each night, beseeching the Lord of Light to bring back the dawn.
+The common prayer of the followers of the Lord of Light uses the line &apos;The night is dark and full of terrors&apos;, followed by the response line, &apos;Lord, cast your light upon us.&apos; When interacting with each other, Red Priests tend to speak High Valyrian and greet each other with the traditional Valyrian exchange valar morghulis/valar dohaeris, although this probably has more to do with the cultural background of most Red Priests than the religion itself. 
+\n  "
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.Old gods of The Forest"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The religion believes in innumerable and unnamed nature gods, the spirits of each tree, each rock, and each stream.
+Worshipers of the Old Gods do not have elaborate ceremonies, holy texts, hierarchies of priests, or large structures of worship like followers of the Faith of the Seven. Instead they practice quiet contemplation in godswoods, small areas of forest which have been enclosed within a castle&apos;s walls. Worship in a godswood is centered on heart trees, which are great weirwood trees with a face carved into the bark. Weirwoods are considered sacred in the religion, and heart trees are the closest thing to a &apos;shrine&apos; that it possesses. Oaths and promises sworn in front of a heart tree are considered binding.
+The faith of the Old Gods is personal and less structured than other religions, though some basic social violations are proscribed by it, such as kinslaying, incest, and bastardy. It also upholds the laws of hospitality.\n "
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="3.Faith of The Seven"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Faith holds that there is one god who has seven faces or aspects: the Father, the Mother, the Maiden, the Crone, the Warrior, the Smith, and the Stranger. Each aspect represents one part of life or existence.
+
+    \n
+The Father: represents divine justice, and judges the souls of the dead.\n
+The Mother: represents mercy, peace, fertility, and childbirth. She is sometimes referred to as &apos;the strength of women&apos;.\n
+The Maiden: represents purity, love, and beauty.\n
+The Crone: represents wisdom and foresight. She is represented carrying a lantern.\n
+The Warrior: represents strength and courage in battle.\n
+The Smith: represents creation and craftsmanship.\n
+The Stranger: The Stranger represents death and the unknown. It is rarely prayed to.\n 
+
+The Stranger is depicted as neither male nor female, thus the number of male and female aspects within the godhead is equal: three males (Father, Warrior, Smith), three females (Maiden, Mother, Crone), and one who is neither. Unlike the other aspects which are represented as human figures in artwork, because the Stranger represents the unknown it is often portrayed in a wide variety of forms, often frightening. Sometimes it is represented as a skeletal figure, or a non-human creature possessing various animalistic features.
+
+Due to its seven &apos;aspects&apos;, the deity is often referred to as the &apos;Seven-faced God&apos; or the &apos;God of Seven&apos;, but most frequently as simply &apos;the Seven&apos;. The Seven are also referred to as &apos;the New Gods&apos; or &apos;New God&apos;, in contrast with the &apos;Old Gods&apos; of the Forest worshiped by the First Men before the invasion of the Andals.
+
+In practice, many devotees will refer to the aspects as &apos;Gods&apos; plural, though priests of the Faith will attempt to stress the theological nuance to their followers that there is indeed only one God, the &apos;Seven-in-One&apos; deity. This has not stopped the commonly heard exclamation &apos;Gods be good!&apos; from being used pervasively throughout the Seven Kingdoms.
+
+Due to the &apos;Seven-in-One&apos; nature of the deity, the number seven is sacred in the religion, with symbolism involving the number seven featuring heavily in its belief system. Newborn babies are anointed with seven oils and named in the light of the Seven hours after they are born. In death, the Faith believes that there are Seven Heavens and Seven Hells. The exclaimed curse &apos;Seven Hells!&apos; is commonly heard in Westeros.
+
+The Seven Pointed Star is the most prominent symbol of the Faith, representing how each of the seven aspects is one facet of a unified whole. Other common symbols include rainbows, which are often generated by crystal prisms. This is used as an allegory to explain the complex theological concept of a single God composed of Seven persons: just as pure light separates into the constituent seven colors of the rainbow as it passes through a crystal, so too is there only one deity, which appears to men in seven different ways.\n "
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="4.The Drowned god"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The belief system of the Drowned God justifies the ironborn way of life of piracy and raiding. Followers of the Drowned God believe he brought flame from the sea and that he created the ironborn to reave, raid, and pillage. Much of the religion centers around maritime skills and seafaring ability. It is not simply praiseworthy to kill enemies in battle, it is considered a pious act. A youth in the Iron Islands is not considered a man until he has killed his first enemy. The religion also encourages paying the &apos;iron price&apos; instead of the &apos;gold price&apos; -- that is, it is better not to pay or treat for possessions, but to take them by force from the hands of dead enemies.
+
+While to outsiders the Drowned God religion seems like a thinly veiled justification for pillaging and plundering, the ironborn themselves take their religion very seriously, and actually have a fairly well developed cosmology and belief system surrounding it.
+
+Within this belief system, the Drowned God is locked in an age-old struggle against the Storm God. The Drowned God&apos;s halls are located beneath the ocean, while the Storm God lives in a castle in the sky with his thunderclouds. The Storm God is constantly trying to send storms to dash ironborn ships against rocks to their ruin.
+
+Resurrection figures prominently in the religion, in the form of being revived from drowning. The Drowned God itself is said to have drowned in the sea, for the sake of the ironborn, but returned to life &apos;harder and stronger&apos;. However, drowning is also employed as a method of sacrificing enemies to the Drowned God.
+
+Due to their belief, the ironborn do not fear drowning in the sea. &apos;Godly&apos; ironborn, that is fearless raiders, who drown are believed to be taken to the Drowned God&apos;s watery halls to feast on fish and be tended by mermaids for eternity. Thus, whenever a man dies, ironborn say that the Drowned God is in need of a strong oarsman."
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

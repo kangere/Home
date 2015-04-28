@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        
+         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/BarHeader"
+            android:textSize="30sp" />
+        <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/baratheon"
+            android:scaleType="fitXY"/>
+
+       
+
+        <TextView
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Baratheon is one of the Great Houses of Westeros, although also one of the youngest. It is the current royal house.
+
+House Baratheon&apos;s sigil is a black stag on a gold background and their house motto is &apos;Ours is the Fury&apos;. When Robert ascended the Iron Throne, a gold crown was added to the stag, denoting their status as the royal house.
+
+The ancestral Baratheon stronghold is Storm's End, but since becoming the royal house they have also taken possession of the old Targaryen island fortress of Dragonstone, whilst the King rules from the city of King&apos;s Landing, the capital of the Seven Kingdoms.
+
+When the War of the Five Kings began following King Robert Baratheon&apos;s death, House Baratheon became divided into three distinct factions: one led by Robert&apos;s alleged son (who is actually the product of an incestuous sexual relationship between Cersei and Jaime Lannister), Joffrey; one led by his younger brother, Stannis; and one led by his youngest brother, Renly. " />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Baratheon was founded by Orys Baratheon, a general in the army of King Aegon I Targaryen, the Conqueror. Orys Baratheon was also rumored to be Aegon&apos;s bastard half-brother. He defeated Argilac the Arrogant, the last of the Storm Kings, and captured his castle of Storm&apos;s End. He also captured Argilac&apos;s daughter, Argalia, and took her as his wife. For his accomplishments, Orys was made Lord of Storm&apos;s End and founder of House Baratheon. " />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Robert's Rebellion"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Two hundred and eighty-one years later, Lord Robert Baratheon rebelled against King Aerys II Targaryen, the Mad King, when the latter&apos;s son, Prince Rhaegar, kidnapped Robert&apos;s betrothed, Lyanna Stark, and his father the Mad King murdered her father and brother. House Baratheon, allied to the Houses Stark, Arryn and Tully, defeated the Targaryen army at the Battle of the Trident, while the forces of House Lannister captured King&apos;s Landing, where Jaime Lannister slew the Mad King. It was decided that Robert, as the military leader of the rebellion and also the one with the best blood-claim to the Iron Throne, would become King. With Lyanna dead, he married Cersei Lannister to cement the alliance that brought down the Targaryens, but they did not have a happy marriage, due to Robert&apos;s whoring and abuse, and Cersei&apos;s hatred of him."
+             />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Royal House"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="When House Baratheon became the new royal dynasty, the House&apos;s heraldry was slightly altered, adding a crown to the a black stag on a gold field.
+With Robert Baratheon leaving for King&apos;s Landing to rule all of the Seven Kingdoms from the Iron Throne, he left his youngest brother Renly Baratheon, who was only a child at the time, to rule the seat of House Baratheon at Storm&apos;s End. Meanwhile, he appointed his middle brother Stannis Baratheon as Lord of Dragonstone island, the ancestral seat of House Targaryen. This also made Stannis the lord of several minor outlying islands of the Crownlands which were in Blackwater Bay. Many saw this as an insult to Stannis, as windswept and isolated Dragonstone was not as wealthy or prestigious as Storm&apos;s End, the capital of the Stormlands. However, Stannis was a proven military commander and a loyal vassal of his experience was needed to rein in Dragonstone, where many of the most die-hard Targaryen loyalist Houses were located. 
+
+It isn&apos;t exactly clear how King Robert envisioned dividing up his possessions for future generations of House Baratheon, or if he even had a plan. It isn&apos;t clear if he meant to permanently unite the Crownlands around King&apos;s Landing with the Stormlands around Storm&apos;s End (which do border the Crownlands). Alternatively, he might have handed off Storm&apos;s End and the Stormlands to a cadet branch of House Baratheon formed by Stannis or Renly&apos;s children, while Robert&apos;s own children ruled the Crownlands. There&apos;s even the possibility that Robert intended to cut his younger brothers out of the succession entirely, and have the rule of the Stormlands pass to his younger son Tommen. Whatever plans Robert may have had were swept away by the outbreak of war upon his unexpected death. "
+             />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="War Of The Five Kings"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seventeen years after he was crowned king, Robert Baratheon died of a wound taken on a boar hunt. Secretly, his death was actually the result of Queen Cersei having his wine spiked to make sure he would be too drunk to defend himself on the hunt.
+
+His eldest son, Joffrey Baratheon, was crowned King on the Iron Throne, but his rule was soon contested by those who claimed that he was born of incest between Queen Cersei and her twin brother, Jaime, including both of Robert&apos;s brothers. This directly led to the outbreak of the conflict which would become known as the War of the Five Kings. Just as the war tore apart the Seven Kingdoms into different factions following different kings, in microcosm, House Baratheon itself has been torn between three rival heirs claiming the succession:
+
+Joffrey Baratheon, crowned king on the Iron Throne, continued to rule the cadet branch of House Baratheon formed by King Robert, &apos;House Baratheon of King&apos;s Landing&apos;. However, with the spread of rumors revealing that Joffrey is not Robert&apos;s son but a bastard of incest between Cersei and Jaime Lannister, none of the lords of the Stormlands declared for him.
+
+
+Stannis Baratheon formed his own cadet branch, &apos;House Baratheon of Dragonstone&apos;, and claimed the kingship as Robert&apos;s eldest surviving brother and thus legal heir. Robert had several bastard children but by definition none of them could inherit his rule. However, as an unpopular and stern man, hardly any of the Houses from the Stormlands declared for Stannis.
+
+Flouting tradition, Robert&apos;s younger brother Renly Baratheon declared himself king ahead of his older brother Stannis. Almost all of the lords of Houses in the Stormlands declared for Renly, who also continued to hold Storm&apos;s End itself. As a further insult to Stannis, Renly didn&apos;t even bother officially forming his own cadet branch, instead claiming dominion over all of &apos;House Baratheon&apos;. To strengthen his military and political position, Renly entered into a marriage-alliance with the powerful House Tyrell of the Reach, by wedding Margaery Tyrell. For his personal sigil, and the sigil of his faction in the war, Renly altered the original color scheme of the sigil of House Baratheon. Instead of the black crowned stag on a yellow field, Renly&apos;s banner displayed a golden crowned stag on a field of green, a nod to the color scheme of his new wife&apos;s powerful family, House Tyrell.
+
+Renly was subsequently assassinated and left no heirs. All of the noble Houses of the Stormlands that had declared for Renly then grudgingly switched their allegiance to Stannis as the only surviving Baratheon brother, as the Tyrells abandoned them claiming (accurately) that Stannis had something to do with Renly&apos;s death. Stannis assembled his new armies into a massive assault in King&apos;s Landing, the Battle of the Blackwater. However, Stannis&apos; forces were crushed in the assault by the timely arrival of Tywin Lannister and Loras Tyrell, heralding the new Lannister-Tyrell alliance. Most of the military strength of the Stormlands was crushed in the battle, though Stannis himself was able to escape back to Dragonstone with a handful of remaining troops. Stannis lost most of the Stormlands as a result of the battle: with their military strength spent, the Houses of the Stormlands were too weak to resist Joffrey&apos;s armies and bent the knee. Some of Renly&apos;s old supporters who were never fond of Stannis even actively switched to Joffrey&apos;s side.
+
+At this point, in terms of the family, there is no unified &apos;House Baratheon&apos; as there was before the war. Stannis is indeed the legal heir of the previous House, but he has formed his own cadet branch with new heraldry. Joffrey, along with his younger sister Myrcella and younger brother Tommen, are all bastards and not actual &apos;Baratheons&apos;. Aside from being a bastard, Joffrey also leads his own cadet branch with different heraldry, not the original &apos;House Baratheon&apos;. Thus the only surviving members of the Baratheon family are Stannis, his wife, and his only child, his daughter Shireen Baratheon.
+
+In terms of &apos;House Baratheon&apos;, the political entity ruling over the Stormlands, they have been largely crushed and subdued by Joffrey&apos;s forces. Stannis continues to possess the holdings he had before Renly died, Dragonstone and a few other minor islands in Blackwater Bay. However, a garrison continues to hold the impregnable castle of Storm&apos;s End itself in Stannis&apos; name. "
+             />
+    </LinearLayout>
+
+</ScrollView>

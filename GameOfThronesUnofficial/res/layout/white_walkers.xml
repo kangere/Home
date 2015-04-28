@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/white_walker" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/whiteHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The White Walkers are a mythological race mentioned in ancient legends and stories from the time of the First Men and the Children of the Forest. Eight thousand years before Robert&apos;s Rebellion, a winter known as the Long Night lasted a generation. In the darkness and cold of the Long Night, the White Walkers descended upon Westeros from the farthest north, the polar regions of the Lands of Always Winter. None knew why they came, but they killed all in their path, reanimating the dead as wights to kill the living at their command. Eventually the peoples of Westeros rallied and in a conflict known as the War for the Dawn, and the White Walkers were defeated and driven back into the uttermost north, with the Wall raised to bar their return. \n  "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.Characteristics"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="While having an overall humanoid appearance, White Walkers differ greatly from humans. They are taller than humans and have long wispy white hair. They have pale grey-white skin which is wrinkly but stretched taut across their frames, giving them a somewhat gaunt and mummified appearance despite their overall bulky size. Their most notable trait, however, are their glowing blue eyes.\n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.Powers"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="White Walkers possess the magical powers related to ice and cold. Their arrival is usually accompanied by blizzards and the dropping of temperatures. They can also freeze anything they touch, as one froze Sam&apos;s sword to the point that it shattered. White Walkers also have superhuman strength, as one managed to toss Samwell Tarly several feet away with a single back-handed punch. They wield swords and spears made from unique ice crystals. 
+
+However, one of their most deadly abilities is to reanimate the dead as their servants, known as Wights. They are actually capable of reviving any dead animals as wights, as a few White Walkers have been seen riding undead horses. When revived, their eyes turn an icy blue, similar to the White Walkers&apos; own eyes. Wights can only be killed by fire and serve the Walkers without question. 
+According to legend, the White Walkers speak a language known in myth as &apos;Skroth&apos;. \n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="3.Weaknesses"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The only known weakness that the White Walkers have shown thus far is the ability to be killed instantly when struck with weapons made of dragonglass. Upon being stabbed by dragonglass, a White Walker&apos;s body will begin to freeze into ice from the point at which it is was stabbed, causing the Walker great pain. Finally, it will begin to fall apart, as its now icy body shatters until there is nothing left but powder."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="HOUSE STARK"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/stark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Stark was one of the Great Houses of Westeros, ruling over the vast region known as the North from their seat in Winterfell. It is by far one of the oldest lines of Westerosi nobility, claiming a line of descent stretching back over eight thousand years. The head of the house is the Lord of Winterfell. Before the Targaryen conquest, the leaders of House Stark ruled over the region as the Kings in the North.
+
+House Stark&apos;s sigil is a grey direwolf on a white field, sometimes white and pale green. They are one of the few noble Houses whose family words are not a boast or threat. Instead, the House Stark family motto is a warning &apos;Winter is Coming&apos;. \n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="History"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Before the Targaryen conquest, the leaders of House Stark ruled over the region as the Kings in the North. King Torrhen Stark was on the throne at the time of the Targaryen conquest and marched his army south to face them. He surrendered when he saw their vast host and dragons, believing that fighting was futile. He was made Lord Paramount of the North and served them as Warden of the North."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

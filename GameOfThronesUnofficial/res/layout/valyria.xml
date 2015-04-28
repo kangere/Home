@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/valyHeader"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Valyria was the capital city of the once-great civilization known as the Valyrian Freehold. The city of Valyria is located on the eastern continent of Essos, southeast of the Free Cities, on the Valyrian Peninsula, a large peninsula extending southwards into the Summer Sea. After its fall, the city is commonly referred to as &apos;Old Valyria&apos;.
+
+Valyria&apos;s power was based on the taming and use of dragons in warfare, which valyrians discovered in the chain of volcanoes known as the Fourteen Fires. Using dragons, it destroyed the armies of opposing nations and conquered a large amount of territory on Essos. Its empire, the Valyrian Freehold, extended through much of the modern Free Cities and even onto the island of Dragonstone in the Narrow Sea. However, Valyria never attempted an invasion of Westeros during its existence. Valyria practiced some unusual customs outlawed in much of the rest of the world, including permitting incest and polygamy. 
+\n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Doom of Valyria"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Doom of Valyria was a catastrophic event that took place nearly four hundred years before the events of Game of Thrones. It caused the fall of the Valyrian Freehold and would lead, indirectly, to the conquest of the Seven Kingdoms of Westeros by House Targaryen.
+For nearly five thousand years, the Valyrian Freehold had remained the dominant power in the continent of Essos, thanks to the dragons, mighty beasts that were key to their power. However, one fateful day four hundred years ago, a cataclysm - which became known in later years simply as &apos;the Doom&apos; - laid waste to the Valyrian capital, its people, and the surrounding lands. The string of volcanoes near Valyria known as the Fourteen Fires exploded in a massive eruption, consuming the city of Valyria in ash and flame, and the entire region was wracked by corresponding earthquakes. The Valyrian peninsula itself was shattered and the ocean came sweeping in, becoming the area now known as the Smoking Sea - which no sailor dares cross and which is said to be haunted by demons.
+
+The exact cause of the Doom remains unknown: some believe the volcanic eruption was a natural disaster, while others believe it was inadvertently triggered by the Valyrians&apos; own sorcery. Whatever the cause, Valyria was destroyed, and all their dragons were lost with it, along with Valyrian recorded history, spells, and knowledge. With its center of power destroyed, the Freehold collapsed. Of the mighty families of dragonlords who ruled the Freehold, only one survived, House Targaryen, which had established on Dragonstone years before the Doom. Most importantly, the Targaryens on Dragonstone possessed the only Valyrian dragons that survived the Doom, the only remaining dragons in the known world.
+
+With the heartland of the Freehold destroyed, its surviving colonies to the west and east re-asserted their independence, politically fracturing the continent and initiating a series of savage wars for dominance known as the &apos;Century of Blood&apos;, during which Volantis attempted to reform the Valyrian empire under their rule. Several of these colonies formed into the Free Cities in the west, and the cities of Slaver&apos;s Bay in the east.\n "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Century of Blood"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Century of Blood, also known as the Bleeding Years, was the period of chaos lasting approximately one hundred years in which the former colonies of the Valyrian Freehold became engulfed after the destruction of the city of Old Valyria in the Doom of Valyria. Their once mighty empire fragmented, as colony cities and conquered people rose up, or local governors started looking out for themselves.
+
+The Century of Blood was not a single war but a period of general anarchy, a mad free-for-all in which alliances constantly shifted. It was the formative period for what would become the nine Free Cities, as well as the three independent cities in Slaver&apos;s Bay, which shaped the political landscape of western Essos to the present day. \n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Conflicts"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="During the Century of Blood, each of the eight former colonies that would become the Free Cities initially fought each other in a chaotic series of shifting alliances (the ninth Free City, Braavos, was not a colony of the Valyrian Freehold, but a refuge founded by slaves who escaped from it).
+
+Meanwhile, without the Valyrian dragons to hold them in check anymore, the Dothraki mounted hordes spilled out of the Dothraki Sea to the east, entering into their first great wave of expansion. The Dothraki devastated large swaths of Essos, and left numerous cities ruined in their wake, never to be rebuilt. The Dothraki raided and pillaged unchecked, until Khal Temmo decided to mount an attack on Qohor. Due to the last-minute arrival of the elite Unsullied legions, the Dothraki were repulsed in the resulting Battle of Qohor, leaving 12,000 Dothraki dead including Khal Temmo. This marked a major turning point, ending the terrible years when the Dothraki raided completely at will. Gradually as the other Free Cities began to coalesce they were able to build up enough strength to challenge Dothraki attacks. Dothraki khalasars would still go on pillaging campaigns every now and again in subsequent generations, but they no longer thought they could simply ride over all of the Free Cities without any effort.
+
+Eventually, the oldest and most populous of the colonies, Volantis, attempted to conquer all of the other colonies in order to rebuild the Freehold under their rule.
+
+Volantis failed when all of the other Free Cities united against them. The only thing that could unite all of the other Free Cities was their determination not to be forcefully united under the rule of the Volantenes. However, the deciding factor was that the young Aegon I Targaryen, possessor of the last three Valyrian dragons in the world, entered the conflict on the side of Volantis&apos; enemies. The power of Volantis was shattered, and no further grand attempts were made to unite all of the Free Cities into a new Valyrian empire."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

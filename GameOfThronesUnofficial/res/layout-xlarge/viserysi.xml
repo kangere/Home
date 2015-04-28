@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="VISERYS I TARGARYEN"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Viserys I was the first King of his name to sit on the Iron Throne and the fifth king of the Targaryen dynasty to rule the Seven Kingdoms. He was an ancestor of Viserys and Daenerys Targaryen.During Viserys I&apos;s reign, his wife Aemma Arryn died after giving him only one surviving child, his daughter Rhaenyra. Viserys raised Rhaenyra to be his heir but later remarred to Alicent Hightower and had three sons and a daughter by her - including the future king Aegon II Targaryen.Physically, Viserys I was a plump and pleasant man, amiable to those around him. He grew up in and ruled over a time of plenty, so he was fat and jovial, though he was still an effective monarch. He was loved by both the nobility and the smallfolk. As king, he wore the seven-jeweled crown of his predecessor, Jaehaerys I. Viserys was the last rider of the dragon Balerion the Black Dread, but the beast died of old age in 94 AL, late in the reign of Jaehaerys I and nine years before Viserys I succeeded him as king. Although at the time there were more Targaryen dragons than under the reign of any monarch before or since, Viserys I never bonded with another dragon. "
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

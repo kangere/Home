@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="CERSEI LANNISTER"
+            android:textSize="40sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/cersei_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cersei is the only daughter and eldest child of Joanna Lannister and Lord Tywin Lannister. Tywin is the head of House Lannister, the richest man in the Seven Kingdoms and Lord Paramount of the Westerlands. The Westerlands are one of the constituent regions of the Seven Kingdoms and House Lannister is one of the Great Houses of the realm. Cersei is the elder twin of Ser Jaime Lannister and the elder sister of Tyrion Lannister. She was raised in privilege in the family seat of Casterly Rock. She is noted for her great beauty.
+
+Cersei&apos;s mother died when she was four years old, after giving birth to her younger brother Tyrion. Like her father, Cersei has always blamed Tyrion for her mother&apos;s death and deeply resents that her mother died so that Tyrion would be brought into the world. Cersei&apos;s father Tywin was constantly away from home during her childhood and teenaged years, serving as Hand of the King at the capital, with only infrequent visits back to his seat at Casterly Rock. Coupled with the death of her mother, this meant that Cersei and her two brothers were primarily raised by servants attached to House Lannister. She began an incestuous relationship with Jaime in her youth which has continued despite her marriage. Cersei has had other partners but Jaime has always been faithful to her.
+
+She is the wife of King Robert Baratheon, a political marriage Robert agreed to in thanks for her father&apos;s late switching of sides in the civil war which brought him to power. She was aged 19 when she married Robert and became Queen. She has three children: Joffrey, Myrcella and Tommen. She claims that they are Robert&apos;s although they are actually illegitimate and a result of her relationship with her brother Jaime, which is not common knowledge."
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

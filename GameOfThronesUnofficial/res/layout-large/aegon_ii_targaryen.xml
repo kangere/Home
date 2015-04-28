@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="AEGON II TARGARYEN"
+            android:textSize="35sp" />
+        
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aegon II took the Iron Throne at the behest of his mother, Queen Alicent Hightower, and Lord Commander Criston Cole of the Kingsguard, thereafter known as Criston the Kingmaker, even though his father, Viserys I, intended Rhaenyra, daughter of Viserys' previous consort, to succeed him. Rhaenyra disputed his ascension and claimed the throne for herself, leading to the civil war known as the Dance of the Dragons.Aegon II started out as almost a puppet for his mother Queen Alicent Hightower, and at first, he did not even want to seize the throne. His mother only managed to get him to go along with the plan when she convinced him that Rhaenyra would eventually strike first and kill his children, because if his bloodline lasted one of his descendants might eventually challenge one of hers in the future. At the outset, when Rhaenyra first declared war against the coup, Aegon II sent an envoy to her with relatively generous peace terms, offering her the continued rule of Dragonstone if she would submit to him. When she refused, however, something snapped in Aegon II, and he pursued increasingly vicious and ruthless action. As the three years of the war passed he came out from his mother's shadow and began making decisions in his own right - many of which actually hurt his cause. 
+             When Viserys I died and Queen Alicent staged the palace coup, the only member of the Small Council who spoke against Aegon II's succession was Lord Lyman Beesbury, an elderly man in his eighties who had skillfully served as Master of Coin for over thirty years, not only under Viserys I but even under his grandfather Jaehaerys I. Alicent had him executed as a result, but this hobbled Aegon II's Small Council by robbing it of an experienced Master of Coin, particularly given that they needed funds for the war. The Lannisters were wooed into his allegiance by naming Ser Tyland Lannister the new Master of Coin, but they frequently butted heads. Rhaenyra formed her own rival Small Council, and by all accounts, was a skilled administrator who was respected by the council members. In contrast, Aegon II was so inexperienced, untrained, and hotblooded that he was frequently at odds with his own Small Council. One of the reasons Rhaenyra's faction was able to gain so much ground despite not controlling the capital city is because of the fact that Aegon II could not adequately make use of those advantages he did possess. 
+             Aegon II's rule officially lasted two years, but much of the realm never acknowledge his rule - fueling the debate over whether Rhaenyra or Aegon II should be historically considered to be the 'legitimate' monarch at the time. Moreover, Aegon II actually 'ruled' as king for barely a single year's worth of time. A few months after Aegon II was crowned the two factions had gathered their armies, and the first large-scale battle occurred at Rook's Rest. Aegon II was so badly burned by dragonfire that he spent the next full year heavily sedated with Milk of the Poppy while recovering from his injuries. In the meantime, his younger brother Aemond One-Eye was named as Protector of the Realm and led the Greens' armies during most of the Dance of the Dragons. By the time Aegon II recovered Aemond had died. "
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+    
+
+</ScrollView>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="AERYS II TARGARYEN (Mad King)"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aerys Targaryen, the Second of His Name, was King of the Seven Kingdoms and the last member of House Targaryen to sit on the Iron Throne. Popularly remembered as 'the Mad King', his reign became increasingly erratic and murderous. A final round of blood-letting, unleashed when his son Prince Rhaegar kidnapped Lyanna Stark of Winterfell, saw many houses in the realm rebel against his rule. Brandon Stark protested the abduction of his sister and demanded justice. Aerys had him arrested for treason and then offered to ransom him to his father. When Rickard rode to King's Landing to ransom Brandon, Aerys had him arrested too, and then executed both father and son.
+
+The noble houses of Stark, Tully, Arryn, and Baratheon raised the flags of rebellion and destroyed the royalist armies in several major engagements, culminating in the Battle of the Trident where Prince Rhaegar fell. King Aerys was betrayed by his former friend and King's Hand, Lord Tywin Lannister who led an army to apparently defend the capital at King's Landing but then brutally sacked the city instead.
+
+Aerys had already instructed Wisdom Rossart, now his Hand of the King, to hide caches of wildfire all over King's Landing. Now, he decreed that the capital be set ablaze. Aerys seemingly believed the massive inferno would transmute him into a dragon and he would emerge to obliterate his enemies. To prevent the King incinerating the city and its half a million inhabitants, Ser Jaime Lannister, a member of the Kingsguard, stabbed Aerys in the back and then cut his throat. 
+
+Aerys's death brought to an end the Targaryen dynasty, which had ruled the Seven Kingdoms for three centuries. He was replaced on the Iron Throne by the leader of the rebels, Robert Baratheon. Aerys was survived by his two youngest children, Viserys and Daenerys, who were spirited away to the Free Cities."
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

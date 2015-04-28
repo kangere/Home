@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="DAVOS SEAWORTH"
+            android:textColor="#fff"
+            android:textSize="40sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/davos_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ser Davos Seaworth is a landed knight and a reformed smuggler. His ship used to ply the Narrow Sea, smuggling goods from the Free Cities into the Seven Kingdoms and back again.
+
+Davos was born in Flea Bottom, the poorest slum in King&apos;s Landing. His father was a poor crabber. He became a sailor while very young to escape the slums and has spent most of his life sailing the Narrow Sea. His black-sailed ship became infamous for sneaking into harbors in the dead of night while avoiding detection.
+
+During Robert&apos;s Rebellion, Davos aided Stannis Baratheon while he was besieged in Storm&apos;s End, by delivering smuggled onions and other foodstuffs into the castle. The supplies helped Stannis&apos; forces survive until the end of the war. For this service, Stannis rewarded Davos by bestowing him with knighthood and lands. He chose the name &apos;Seaworth&apos; for his family&apos;s new noble House, as a reference to his smuggling past. Highborn members of older noble Houses disparagingly Davos called &apos;the Onion Knight&apos; for his actions, but he has embraced this title and proudly took an onion for a sigil and sewed it onto his ship&apos;s sails.
+
+Stannis also cut off four finger tips from Davos&apos; right hand as punishment for his smuggling crimes. Thieves in Westeros are often sentenced to having fingers or the whole hand removed, but Stannis only took the fingertips of his less used hand (his right, as Davos is left-handed). Davos submitted to this punishment willingly, judging it a fair exchange in return for improving his family&apos;s future prospects. He also mentions in a featurette that he submitted to the punishment for the sake of sheer justice, saying he &apos; avoided punishment for too long&apos;. He wears his severed finger bones in a pouch about his neck and believes they bring him good luck.
+
+Davos is one of Stannis&apos; most loyal and reliable vassals, but is treated with disdain by some of the other lords of Westeros for his low birth. Stannis himself points out that it was the low-born Davos, and not the high-born lords, who saved the lives of Stannis and his castle garrison. Davos is one of the only men who can (even grudgingly) influence Stannis&apos; decisions, because he values Davos&apos; honest advice above that of noble-born flatterers.
+
+Davos has several sons, including Matthos, who serves with him on his ship and is a scribe for Stannis. He is proud of his son&apos;s education but remains illiterate.
+
+Even though Stannis&apos; wife Selyse despises Ser Davos, their daughter Shireen is fond of him and considers him a friend."
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

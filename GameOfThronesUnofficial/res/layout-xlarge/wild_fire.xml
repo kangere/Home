@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/wildHeader"
+            android:textSize="40sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/wildfire" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wildfire is a dangerous liquid which is created and controlled by the Alchemists&apos; Guild, an ancient society of learned men boasting arcane knowledge now based in the city of King&apos;s Landing. It is a highly volatile material which can explode with tremendous force and burns with a fire that water cannot extinguish, only large quantities of sand.
+
+Wildfire is identifiable through the distinctive green hue of its flames. Even in its stored liquid state it gives off a green color. Pyromancers refer to it as &apos;The Substance&apos;, while in the lowest circles it is derisively referred to as pyromancer&apos;s piss.
+
+Wildfire plays a key and important role at the Battle of the Blackwater, during the War of the Five Kings. "
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

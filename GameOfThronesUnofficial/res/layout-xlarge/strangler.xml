@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="HardcodedText" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/stranHeader"
+            android:textSize="40sp" />
+        
+         <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:src="@drawable/the_strangler"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The strangler is a rare and extremely deadly poison, which kills by making a person who has ingested it unable to breathe. \n"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.Effects"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="It causes the throat to swell shut, and to the untrained eye its effects may be confused with a severe choking fit, though it also causes blood to leak out of bodily orifices such as the mouth, eyes. and pores. The effects are almost instantaneous after being ingested.
+
+The poison is dealt in the form of amethyst-colored crystals which can be crushed and dissolved into beverages for the targeted victim to drink. \n"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.Known Victims"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Maester Cressen attempted to assassinate Melisandre by offering her a cup of wine containing the strangler. As an old man and more concerned about Stannis&apos;s well-being, Cressen knowingly drank from the poisoned cup as a sign of good faith, in the hope that this would trick the Red Priestess into accepting his offer. To Cressen&apos;s surprise, Melisandre&apos;s magical abilities apparently protected her from the effects of the deadly poison, while Cressen himself collapsed and died.  
+\n King Joffrey Baratheon was assassinated using the strangler."
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

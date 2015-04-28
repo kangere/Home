@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/otherHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.Essence of Nightshade"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Essence of Nightshade is a medical substance used in small doses as an anti-anxiety formula, but large doses are fatal. A single drop added to a cup of wine will calm frayed nerves, and three drops will put a person into a deep, dreamless sleep. Ten drops, even diluted into a cup of wine, are fatal.  \n  "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.Shade of the Evening "
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Shade of the evening is a beverage commonly drank by the warlocks of Qarth. It is the cause for their blue lips. The Warlocks believe that drinking large quantities of shade of the evening grants them magical powers.
+
+The beverage is brewed from the leaves of the trees that surround the House of the Undying.\n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="3.Tears of Lys "
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The tears of Lys is a rare and costly, but extremely deadly poison. It is clear and tasteless, and thus leaves no trace that might alert the target.
+
+Varys, the Master of Whisperers, warns Eddard Stark that he believes Jon Arryn, Stark&apos;s predecessor as Hand of the King, was actually poisoned using tears of Lys.
+
+When Petyr Baelish arrives at the Eyrie with Sansa Stark, it is finally revealed by Lysa Arryn that she was the one who dropped the tears of Lys into Jon Arryn&apos;s wine. \n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="4.Dragonbon "
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Dragonbone is a durable material that, as its name suggests, is harvested from the bones of dragons. Dragonbone is highly prized among weaponsmiths, as it is as resilient as metal, yet lighter and more flexible.\n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="5.Wolfsbane"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wolfsbane is a lethal poison obtained from a plant of the same name. Darts dipped in it may kill a grown man quickly."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

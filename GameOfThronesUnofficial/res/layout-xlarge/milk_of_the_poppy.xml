@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/milkHeader"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Milk of the poppy is a medical drink, used as both a painkiller and an anesthetic. Higher doses will induce unconsciousness, so patients can undergo surgery. It is commonly used throughout the Seven Kingdoms for those who have suffered severe injuries. Maesters make it from crushed poppy flowers and it has a white color, hence &apos;milk of the poppy&apos;.
+
+Milk of the poppy seems to have some sort of strong undesired side effects, probably some form of withdrawal, as some characters have preferred to go through strong pain instead of consuming it. Jaime Lannister refuses to take milk of the poppy when Qyburn was operating on the infected stump of his sword-hand, despite being warned that removing the rotting flesh would cause a massive amount of pain. These side effects are most likely related to the fact that milk of the poppy is an opiate. "
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

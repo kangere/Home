@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/childHeader"
+            android:textSize="25sp" />
+
+        <TextView
+            android:textSize="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Children of the Forest are a mysterious non-human race that were reportedly the original inhabitants of the continent of Westeros. They were already living in Westeros when the First Men migrated to the continent, 12,500 years before Robert&apos;s Rebellion.
+
+According to legend they were last seen during the Andal invasion six thousand years before the War of the Five Kings. In the present day, most believe that they are simply the stuff of myth and never existed at all. Even the few that do believe they once existed, such as Maester Luwin or Ned Stark, believe that they have long since gone extinct. \n "
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Biology"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Children of the Forest were said to be humanoid, but when grown to manhood they were no taller than human children. They generally preferred to live in the depths of the forests in hidden villages, in crannogs of the swamps, or in caves. Thus they came to be known as &apos;the Children of the Forest&apos;.\n "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Culture"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Children of the Forest worshiped nature gods, the countless and nameless spirits of every tree, every rock, and every stream. Their religion devoted to the Old Gods of the Forest had no complex temples, but according to legend it was the Children that carved faces into the sacred Weirwood trees. 
+
+These carved heart trees were the closest thing to a  shrine in their religion.
+The Children of the Forest weren&apos;t very technologically advanced, though they were very woodcrafty and had a great knowledge of the plants and animals of the forest. They hunted using bows made of weirwood and used blades made of Dragonglass.
+
+The wise men of the Children of the Forest were known as &apos;Greenseers&apos;, who are said to have wielded powerful magic.  \n  "
+            android:textSize="17sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="War of The First Men and The Children"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The First Men began encroaching on the forests of the Children, cutting and clearing land to use them for agriculture. The First Men cut down the Children&apos;s sacred weirwood trees, infuriating them. The Children fought back against the tide of the First Men&apos;s migration throughout Westeros, in a series of conflicts lasting two thousand years.
+
+The Children of the Forest were never numerous, and they did not possess much technology, wielding blades and arrowsheads made out of obsidian stone. Nonetheless they were fierce fighters, knew the forests very well, and wielded magical powers. Meanwhile, the First Men were more numerous, possessed weapons and armor made of bronze, and rode horses.
+
+The greenseers of the Children of the Forest used their powerful magic to shatter the Arm of Dorne, and the ocean rose up and swallowed most of the land bridge. The few remnants became an island chain between Westeros and Essos known as the Stepstones. However, the destruction of the Arm of Dorne ultimately did not stop the advance of the First Men.
+
+As the First Men moved up north, the Children of the Forest attempted once again to use the ocean to halt their advance. They called upon the &apos;Hammer of the waters&apos; to shatter the Neck and break the continent in two. However, the Children only succeeded in flooding the land, filling it with bogs and swamps, but not enough to submerge it beneath the sea.\n"
+            android:textSize="17sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="The Pact"
+            android:textSize="20sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="After two thousand years of conflict, the two sides had fought to a standstill. The two races tired of the centuries of bloodshed, and representatives of both groups came together on an island in the middle of a great lake in central Westeros, known as Gods Eye. There they forged a lasting peace known as The Pact: the open lands were granted to humanity, while the deep forests were to remain the undisturbed domain of the Children. The First Men were forbidden from ever cutting down a sacred weirwood tree again. To commemorate The Pact, the Children of the Forest carved a face into every weirwood tree on the island (making each a heart tree), and forever after the island has been known as the Isle of Faces. 
+The peace between the two races would endure another six thousand years, even enduring the invasion of the White Walkers two thousand years later. However, six thousand years ago the Andals invaded Westeros, conquering the First Men and killing the Children of the Forest wherever they encountered them."
+            android:textSize="17sp" />
+        
+        
+        
+    </LinearLayout>
+
+</ScrollView>

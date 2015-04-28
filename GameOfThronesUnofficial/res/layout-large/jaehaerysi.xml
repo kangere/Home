@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="JAEHAERYS I TARGARYEN"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jaehaerys I is fondly remembered as one of the best kings the Targaryen dynasty ever produced, and his long reign became synonymous with peace and prosperity. He was the longest-ruling king in history, sitting on the Iron Throne for fifty-five years, and due to his advanced age by the end of his reign is often called &apos;the Old King&apos;. He is also known as &apos;Jaehaerys the Conciliator&apos; because he brought an end to the eleven year uprising by the Faith of the Seven which had been fought by his uncle Maegor the Cruel. Jaehaerys offered the Faith generous terms of amnesty, so long as they acknowledged Targaryen rule and disbanded the military orders of the religion, known as the Faith Militant. Following Targaryen custom, Jaehaerys married his own sister Alysanne. She was actively involved in court affairs and became one of Jaehaerys&apos;s chief counselors, if not practical co-ruler. Alysanne also rode her own dragon, named Silverwing. She is also fondly remembered in the Seven Kingdoms, as &apos;Good Queen Alysanne&apos;.
+The Nightfort was not simply abandoned during Jaehaerys I&apos;s reign, but actually visited by him and Queen Alysanne. The royal couple had made a formal visit to Winterfell in a great flight consisting of six dragons. During the visit to Winterfell Alysanne grew bored, and on a whim flew north to the Wall on her dragon Silverwing (when Samwell Tarly passed through the Nightfort over two hundred years later, his mind boggled that a live dragon once stood in its courtyard). She was followed later by Jaehaerys himself. The Night&apos;s Watch had been in a serious decline for several decades, however, because ever since the Targaryen Conquest the Iron Throne had put an end to the constant petty wars which had been going on between the Seven Kingdoms for centuries. While this greatly benefited the prosperity of the new unified realm, it meant that the constant trickle of recruits from the losing sides of those petty wars dried up. Alysanne was deeply impressed with the bravery of the men of the Night&apos;s Watch, and convinced her husband to double the size of the lands of the Gift. The boost of support that the New Gift gave the Watch helped stall its decline for several generations (though it was in full decline again two hundred years later when Jon and Sam joined it). At the same time, the royal couple recognized that the Watch could no longer adequately man the Nightfort, and convinced them to abandon it. A new, smaller castle was built east of the Nightfort, named Deep Lake , to replace its guard over that section of the Wall (while the Watch&apos;s headquarters were transferred to the more centrally located Castle Black). Deep Lake castle was paid for by Alysanne herself, and constructed by men that Jaehaerys I sent north. Thus the Night&apos;s Watch also remembers Jaehaerys and Alysanne with great esteem, as increasingly later monarchs came to practically ignore the Night&apos;s Watch. 
+Jaehaerys I ruled wisely and well until the end of his long reign.Jaehaerys lived so long that he actually outlived Alysanne by several years as well as two of his own sons (who may have died young), and was thus succeeded by his grandson Viserys I - the only time in history that a king was succeeded by his grandson. "
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

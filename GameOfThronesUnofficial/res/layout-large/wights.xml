@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <ImageView 
+           android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/wight" 
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/wiHeader"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A wight is a recently deceased body that has been reanimated by the White Walkers. Many stories claim that White Walkers alone have the ability to create wights. Samwell Tarly noted that the wights he had encountered had been dead for weeks, yet they exhibited no signs of rot or decay. Regardless of their eye color while alive, all wights have icy blue eyes like those of their masters. Wights are also nigh-indestructible and can withstand an injury that would normally be fatal, including stab wounds and the removal of limbs; even amputated limbs will still move around on their own. Decapitation is ineffective, as the headless corpse will keep moving, albeit robbed of its sensory organs.
+
+However, wights are very susceptible to fire. Their flesh is extremely flammable, as if it were coated in oil: it will easily catch fire and continue to burn if exposed to even a small amount of flame. As a precaution against them, the Free Folk burn their dead so they cannot be revived as wights.
+
+A wight&apos;s physical condition will roughly match the condition the corpse was in when it was reanimated. A corpse that was killed in a relatively non-violent way and which is resurrected soon after death will still seem relatively lifelike. In contrast, a corpse that died violently or which was resurrected long after it died and it had already begun to decompose will still look like a maimed, rotting corpse. Reanimation will halt the physical process of rot and decay, but otherwise it does not restore previous damage. A corpse with a broken leg won&apos;t magically have the leg healed when it is reanimated into a wight.
+
+Wights are not particularly intelligent, and it is debatable if these creatures are truly sapient and possess self-awareness. They lack the ability to speak, uttering only bestial growls and hisses. They do seem to be able to carry out the basic attack commands of the White Walkers, but seem to function on more of a &apos;zombie&apos; level of instinct. They can remember how to use a sword, albeit in a crude hack-and-slash attack, but they haven&apos;t been observed using bows and arrows or other complex tools. Exactly how much wights remember of their previous lives is unclear, or if they remember them at all. The wight of Othor, a member of the Night&apos;s Watch, did seem to remember the way to Lord Commander Jeor Mormont&apos;s quarters to try to attack him.
+
+The White Walkers are also shown to be capable of reviving any dead animal as a wight, such as horses. White Walkers have been observed riding horse-wights as mounts. "
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

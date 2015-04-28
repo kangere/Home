@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        
+        <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/manticore"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/mantiHeader"
+            android:textSize="35sp" />
+
+        <TextView
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Manticores are highly aggressive and extremely poisonous scorpion-like insects from the continent of Essos.
+                            " />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="Biology"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Manticores have an overall body-plan similar to scorpions, but can grow almost as large as a lobster. They possess six legs and larger stinger-tail, which curves up over the body to hang over the head. They have a series of threatening-looking spines on each body segment, running up the sides of the body and tail. They are mostly green in color.
+
+Their most recognizable features are the designs on the plates of their bodies, particularly the marking on the final plate of their tails which resembles a human face. Because of this design they are also sometimes referred to as the &apos;Death&apos;s Head Manticore&apos;.
+
+Manticore venom is extremely lethal, and even a single sting is usually more than enough to kill a person. Extracted manticore venom is one of the most potent poisons which are used by the world&apos;s assassins, sometimes by coating bladed weapons with it, so that even a single scratch will kill. Extracted manticore venom is known to be produced in the city of Mantarys (east of the Free Cities and west of Slaver&apos;s Bay)."
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="ARYA STARK"
+            android:textSize="35sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/arya_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Arya Stark is the youngest daughter and third child of Lady Catelyn and Lord Eddard Stark. Eddard is the head of House Stark and Lord Paramount of the North. The North is one of the constituent regions of the Seven Kingdoms and House Stark is one of the Great Houses of the realm. House Stark rules the region from their seat of Winterfell and Eddard also holds the title Lord of Winterfell. He is also the Warden of the North to King Robert Baratheon.
+
+\nArya was born and raised at Winterfell. She has an older sister, Sansa Stark. She also has an older brother, Robb, two younger brothers, Bran and Rickon and a bastard half-brother, Jon Snow.
+
+\nArya rejects the notion that she must become a lady and marry for influence and power, feeling she can forge her own destiny. She is fascinated by warfare and training in the use of arms, and is bored by embroidery and other 'lady-like' pursuits. She takes after her father and has a quarrelsome relationship with her sister Sansa. She is close to her half brother Jon who is also something of an outcast."
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4f4f4"
+    android:orientation="vertical"
+    tools:context="${packageName}.${activityClass}" >
+
+    <!-- xmlns:mm="http://millennialmedia.com/android/schema" -->
+
+
+    <!--
+         <com.millennialmedia.android.MMAdView
+        android:background="#2d2d2d"
+        android:id="@+id/adView"
+         android:layout_width="480dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        mm:apid="184261"
+        mm:height="60"
+        mm:width="480" />
+    -->
+
+    <RelativeLayout
+        android:id="@+id/adsdkContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" >
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:cropToPadding="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/gotwallpaper" />
+
+    <ExpandableListView
+        android:id="@+id/LvExp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#2d2d2d" >
+
+        <!-- android:background="@drawable/gameofthrones" -->
+        <!-- android:childDivider="#8b7310" -->
+
+    </ExpandableListView>
+
+</LinearLayout>

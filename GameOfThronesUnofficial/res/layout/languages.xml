@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/curHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.WESTOROS"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Only two major languages are used in significant numbers in Westeros: the &apos;Old Tongue&apos;, and the &apos;Common Tongue&apos; of the Andals which has almost entirely replaced it.
+
+The original humans that migrated to Westeros some 12,000 years ago, the First Men, spoke their own language now called &apos;the Old Tongue&apos;. They did not possess a writing system more advanced than runes for gravemarkers, so they made no written histories.
+
+When the Andals invaded Westeros some 6,000 years ago, they imposed their culture and their language on their new domains. The language of the Andals is now known simply as &apos;the Common Tongue,&apos; and in the modern day it is spoken throughout the overwhelming majority of Westeros. The Andals also introduced their writing system along with their language, so written histories do not date before the Andal invasion. It is also used extensively in areas of Essos that are in trade contact with Westeros such as the Free Cities, and also Slaver&apos;s Bay and Qarth. Even in the North of Westeros, where the First Men led by House Stark were able to repel the Andal invaders, over the centuries the Northmen adopted the Common Tongue of their Andal neighbors to the south. Certain place names and personal names used in the North derive from the Old Tongue and are thus notably distinct from names in the south, but the language is no longer used. The Old Tongue is only still actively used by the wildlings in the lands Beyond the Wall, though through trade contact and raiding, many wildlings also know the Common Tongue. Giants north of the Wall are said to speak the Old Tongue exclusively.
+
+While the Rhoynar who migrated to Westeros a thousand years ago did possess their own language, they abandoned it in favor of the Common Tongue when they settled in Dorne and intermingled with the local population. Therefore, similar to the North, the modern-day Dornishmen may use place names and personal names that have a unique origin compared to other parts of Westeros dominated by the Andals, but they still speak the Common Tongue.
+
+The non-human White Walkers of legend are said to have possessed their own language, which sounded like the crackling of ice, known as &apos;Skroth&apos;. No human is known to have ever spoken it, nor have surviving examples of it ever been mentioned. 
+\n "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.ESSOS"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Much of the continent was once dominated by the old Valyrian Freehold for thousands of years, stretching from what are now the Free Cities in the west, to Slaver&apos;s Bay in the east. The Valyrians forced the peoples they subjugated to speak in (or at least be able to converse in) their language, now known as &apos;High Valyrian&apos;. After the Doom of Valyria 400 years ago, High Valyrian stopped being spoken as an everyday language, instead becoming a lore-language for learned men and scholars researching the knowledge of lost Valyria, even in Westeros.
+
+Over the next four centuries, without the central influence of the Valyrian empire, the speech of their descendants and former colonies mutated into a romance language known as &apos;Low Valyrian &apos;, or &apos;Bastard Valyrian&apos;. Low Valyrian is not one language, so much as a family of diverse dialects well on their way to becoming separate languages (so much so that even those who speak one might not be able to speak another, and without mutual intelligibility, it could be argued that they have truly become separate languages).
+
+Each of the Nine Free Cities has its own dialect/language of Low Valyrian. These include Braavosi (Braavos), Lorathi (Lorath), Lysene (Lys), Myrish (Myr), Norvoshi (Norvos ), Pentoshi (Pentos), Qohorik (Qohor), Tyroshi (Tyrosh), and Volantene (Volantis). Slaver&apos;s Bay also has its own dialect/language of Low Valyrian, making for a total of ten different branches. The Low Valyrian of Slaver&apos;s Bay is somewhat influenced by the Old Ghiscari language of the fallen Ghiscari Empire, but owes more of its descent to High Valyrian than the old local languages."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="MAEKAR TARGARYEN"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Maekar Targaryen is the fourteenth Targaryen to sit the Iron Throne. He was the fourth son of King Daeron II and Myriah Martell. As the son of Daeron II, he was also the grandson of King Aegon IV Targaryen. Maekar was given the Targaryen seat of Summerhall, and was a capable army commander who served in the Blackfyre Rebellion. After a number of unexpected deaths in the royal family, he came to the throne in 221AL. He ruled until 233AL, when he fell in battle against a rebel lord.
+
+He was the father of Daeron, Aerion, Aemon, Aegon, Rhae and Daella"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

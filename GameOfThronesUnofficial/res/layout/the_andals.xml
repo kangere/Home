@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="THE ANDALS"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The original homeland of the Andals is a region on the west coast of Essos which was called Andalos, located north of the modern Free City of Pentos, across the Narrow Sea from Westeros. Six thousand years ago, after allegedly receiving visions from the &apos;Seven-faced God&apos;, the Andals were spurred on by their new Faith to migrate to Westeros, where they overran and conquered most of the continent, then inhabited by the First Men. The Andals brought the concept of chivalry and iron-wrought weapons and armor with them from Essos.
+
+In many cases the Andals did intermarry with the First Men they conquered, so that even House Lannister claims at least some minor descent from the First Men. Still, the overwhelming influence on the gene pool of the continent is from the Andals, to the point that the Seven Kingdoms are often called &apos;the Land of the Andals&apos; by peoples in Essos (such as the Dothraki).
+
+The exceptions are the North, which the Andals never conquered and where the blood of the First Men is still strong, and Dorne, where the Andal inhabitants later intermingled with the refugees from the east.
+
+The Andals did also conquer the Iron Islands as they did the rest of southern Westeros, but these Andal families acculturated to the unique ironborn society on the islands, even goes so far as to convert to the local religion of the Drowned God. Thus while some Andal bloodlines were introduced to the Iron Islands, the cultural impact of their invasion was relatively minor. "
+            android:textSize="17sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Culture"
+            android:textSize="20sp" />
+        
+        
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Most of the current population of Westeros is, predominantly, of Andal descent. Their culture, language, and religion have permeated most of the continent. Knighthood is a distinctly Andal institution, closely tied to the Faith of the Seven, and introduced by the Andals to Westeros.
+
+What is known in the present day as the 'Common Tongue' of Westeros is actually the language of the Andals, which displaced the 'Old Tongue' spoken by the First Men. Even the independent First Men living in the North eventually took up the language of their southern Andal neighbors.\n                            The Andal Invasion \n "
+            android:textSize="17sp"/>
+        
+    </LinearLayout>
+
+</ScrollView>

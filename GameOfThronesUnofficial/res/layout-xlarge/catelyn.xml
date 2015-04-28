@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="CATELYN STARK"
+            android:textSize="40sp" />
+        
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/catelyn_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Catelyn was born into House Tully and is the eldest child of Lord Hoster Tully. She has a younger brother, Edmure, and a younger sister, Lysa. Petyr Baelish was fostered with the Tullys and Catelyn grew up with him. She was betrothed to marry Brandon Stark of Winterfell, but he was brutally murdered by the Mad King, Aerys II Targaryen after Prince Rhaegar had kidnapped Brandon&apos;s sister Lyanna. Catelyn instead married Brandon&apos;s brother, Eddard. Though they barely knew one another when they wed they have formed a strong and loving marriage.
+
+Catelyn and Eddard have five children: Robb, Sansa, Arya, Bran and Rickon. She is unhappy with Eddard&apos;s bastard son Jon Snow living with her family in Winterfell, the only source of friction between her and her husband.
+Catelyn has some independent political influence. A former ward of her father&apos;s, Petyr Baelish, known as &apos;Littlefinger&apos;, is the king&apos;s master of coin and one of his closest advisers in King&apos;s Landing.
+
+Catelyn says that she hasn&apos;t been to the capital city of King&apos;s Landing since nine years before her husband went there to be the new Hand of the King, which would be around the time of the Greyjoy Rebellion."
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

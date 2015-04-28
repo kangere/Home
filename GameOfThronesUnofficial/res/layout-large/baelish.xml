@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/BaeHeader"
+            android:textSize="35sp" />
+        
+         <ImageView
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/baelish" />
+
+        <TextView
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Baelish was formerly a lesser vassal house that held fealty to House Arryn of the Vale. It now rules over The Riverlands.
+
+
+The sigil of House Baelish is a grey stone head with fiery eyes on a light green field. However, the current lord of the house, Lord Petyr Baelish, called &apos;Littlefinger&apos;, prefers to use his personal emblem of a black mockingbird almost exclusively. Since he is the only living member of the house, the mockingbird sigil is more commonly associated with the name. " />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="35sp" />
+
+        <TextView
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="In the A Song of Ice and Fire novels, House Baelish began with Petyr&apos;s great-grandfather, a common sellsword from Braavos who traveled to Westeros and took up service with House Corbray of the Vale. The sellsword&apos;s son, Petyr&apos;s grandfather, was also a warrior: he won great honor, converted to the Faith of the Seven and was knighted. He took the head of the Titan of Braavos as his sigil. Petyr&apos;s own father held some land, but only a few stony acres in the Fingers.
+
+Petyr&apos;s father fought in the War of the Ninepenny Kings, the preemptive assault on the forces of Maelys Blackfyre, the last of the Blackfyre Pretenders, before they could attempt an invasion of Westeros. During the conflict Petyr&apos;s father came into contact with Lord Hoster Tully. They became allies through circumstances unknown, and Hoster agreed to foster Petyr at Riverrun, a great honor for a lesser house with a seat so insignificant it had no maester or even a name. There, Petyr befriended Catelyn and Lysa Tully.
+
+Petyr is the only living member of House Baelish, though it is so poor that he gained all of his current wealth due to his own career as a treasurer. Petyr&apos;s great skills with numbers and banking led him to become the tax and revenue collector for Gulltown, the principal city of the Vale. At Lord Jon Arryn&apos;s suggestion, King Robert Baratheon later made Petyr his Master of Coin for the whole realm, a role he continues to serve in until he is sent back to the Vale to enter into a profitable marriage-alliance with Lysa Arryn.
+
+The only real benefit Petyr received from being born into House Baelish is that it technically made him a member of the minor nobility, thus allowing his initial entry into court life. Petyr downplays his partial descent from the Free Cities of the east, even abandoning the use of the original sigil of House Baelish, displaying the Titan of Braavos, to his own personal sigil featuring a mockingbird. Thus it is somewhat ironic that he criticizes Varys for being from the Free Cities.
+
+Petyr rarely returns home, leaving the keeping of his minor towerhouse to a small staff.
+
+Petyr prefers to use his own personal sigil of a mockingbird, rather than House Baelish&apos;s original sigil which displays the head of the Titan of Braavos. Petyr wanted to be accepted into the upper nobility of Westeros, and the Titan&apos;s head would only have served to remind others that his family had foreign roots. Given that Petyr is the only living member of House Baelish, this means that the Titan&apos;s head sigil has been functionally replaced by Petyr&apos;s personal mockingbird sigil as the &apos;official&apos; Heraldry of his House. The mockingbird sigil has not appeared prominently in heraldry on the TV series so far (though Petyr does prominently wear a mockingbird-shaped broach). The one time it has appeared was on a ship&apos;s sail in Season 3, in which it seemed to be a black mockingbird on a yellow field. In the books, the sigil actually consists of a field of multiple silver mockingbirds, on a green plain. " />
+    </LinearLayout>
+
+</ScrollView>

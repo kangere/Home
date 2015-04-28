@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="AEGON IV TARGARYEN"
+            android:textSize="30sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Aegon IV is remembered as one of the worst kings in the entire history of the Targaryen dynasty, which is the reason why he is popularly known as 'Aegon the Unworthy'. He was a decadent ruler and glutton, who indulged his passions and whims at every opportunity. Being attractive in his youth, he was popular with women both highborn and lowborn. He had as many as nine mistresses and many bastards. Supposedly, he had any woman he wanted whether they were married or not. People often joked that while the Targaryen words were 'Fire and Blood', Aegon IV's motto might as well have been 'Wash her and bring her to my bed'. Due to his years of overindulgence, by the end of his reign Aegon IV was extremely obese, to the point that his legs could barely support his own weight. Even so he remained quite vain throughout his life. Moreover, he was a very petty man, needlessly causing strife at the royal court.
+
+Four of his bastard children were born to noblewomen, and they became known as the 'Great Bastards'. Chief among them was Daemon, who upon being legitimized created House Blackfyre. Other notable bastards were Aegor Rivers ('Bittersteel'), Brynden Rivers ('Bloodraven') and Shiera Seastar. Aegon IV foolishly legitimized all of his bastard children upon his deathbed, which resulted in Daemon Blackfyre declaring himself the rightful heir and tearing apart the Seven Kingdoms in civil war. Ultimately, Aegon IV's corruption led to a series of Blackfyre Rebellions which would plague Westeros for five generations. "
+            android:textSize="17sp" />
+    </LinearLayout>
+    
+
+</ScrollView>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/brann_stark"
+            android:textSize="35sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/bran_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bran is the fourth child and second son of Lady Catelyn and Lord Eddard Stark. Eddard is the head of House Stark and Lord Paramount of the North. The North is one of the constituent regions of the Seven Kingdoms and House Stark is one of the Great Houses of the realm. House Stark rule the region from their seat of Winterfell and Eddard also holds the title Lord of Winterfell. He is also the Warden of the North to King Robert Baratheon.
+
+Bran was born and raised at Winterfell. He has an older brother Robb, and a younger brother Rickon. He has two older sisters, Sansa and Arya. He also has a bastard half-brother, Jon Snow. He is 10 years old at the start of the series. He was named for Eddard&apos;s elder brother, Brandon, who was slain by the Mad King. He is only called &apos;Brandon&apos; by his mother when he has done something wrong. He dreams of being a knight of the Kingsguard and one day becoming a bannerman for his brother, Robb. His favorite hobby is climbing the walls of Winterfell and using its old rooftops and passageways to get around."
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

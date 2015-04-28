@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="HOUSE TARGARYEN"
+            android:textSize="40sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/targaryen" />
+
+        <TextView
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Targaryen is one of the former Great Houses of Westeros and the previous ruling royal house of the Seven Kingdoms, before House Baratheon took the Iron Throne, and the few surviving Targaryens fled into exile. House Targaryen&apos;s symbol is a three-headed red dragon on a black background and their motto is &apos;Fire and Blood&apos;. \n" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Once a noble family of the vast Valyrian Freehold, an empire spanning most of the eastern continent, the Targaryens were given control of the island of Dragonstone in the Narrow Sea some centuries ago. After the obliteration of Valyria in the Doom, the Targaryens launched a devastating invasion of Westeros using three dragons to spearhead their attack. In a short period of time, six of the seven formerly independent kingdoms had surrendered to the Targaryen leader, King Aegon I, unifying the continent under his rule. The last hold-out, Dorne, joined the kingdom through a political and marriage alliance some two centuries later.
+
+During the increasingly erratic reign of King Aerys II, his son Rhaegar kidnapped Lyanna Stark of Winterfell for unknown reasons. This sparked a massive uprising led by Eddard Stark, Robert Baratheon and Jon Arryn. At the end of this war Aerys and Rhaegar were dead and the Targaryen power-base in Westeros destroyed. Aerys&apos;s youngest children, Viserys and Daenerys, were taken by Targaryen loyalists into exile in the Free Cities of the East.
+
+Generations of compound inbreeding have preserved in the Targaryen bloodline the classic Valyrian features of silver-white (platinum blonde) hair, and very fair, pale skin. Allegedly, this also preserved in their bloodline the ability to successfully bond with and ride dragons. They also seem to be somewhat more tolerant of extreme heat and high temperatures than other people, though they are by no means invulnerable to fire – or at least, not all of them."
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="HardcodedText" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/draGlass"
+            android:textSize="40sp" />
+        
+         <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:src="@drawable/dragon_glass"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dragonglass is a common name in Westeros for the substance known as obsidian, a form of volcanic glass. It is notable for being, thus far seen, the only substance capable of killing White Walkers.
+
+Large amounts of dragonglass can be found on Dragonstone island.According to legend, the Children of the Forest also made use of the substance. Samwell Tarly discovered, by chance, that dragonglass is one of the few materials that can harm or kill Others (White Walkers). According to legend, the Children of the Forest would provide the Night&apos;s Watch with weapons made of dragonglass specifically for that purpose.
+
+Stabbing an Other with dragonglass will cause it to melt into a puddle of very cold liquid, not shatter to pieces. Samwell later stabs a wight with a dragonglass dagger, but discovers that it has no more effect on wights than regular swords do.
+
+There are old notes claiming that Valyrian steel is also lethal to the Others, but so far it has not been put to test. Dragonglass is the only thing that was actually proved to be effective against the Others, not only in theory.
+
+Dragonglass is sharper than steel, but also more brittle. For this reason it does not make good swords because they might shatter, but smaller daggers are more sturdy and therefore more common. They are also very effective as arrowheads.
+
+In the books, it was Jon Snow who found the buried bundle. In it there were blades, a dozen knives, leaf-shaped spearheads, numerous arrowheads, and a broken warhorn. " />
+    </LinearLayout>
+
+</ScrollView>

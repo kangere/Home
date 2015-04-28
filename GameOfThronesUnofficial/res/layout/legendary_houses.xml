@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Brandon Stark(The Builder)"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bran the Builder was a legendary member of the First Men from the Age of Heroes, the founder of House Stark, and the first King in the North. Many famous structures are attributed to have been built under his direction, hence his nickname of &apos;the Builder&apos;, including Winterfell and most famously the Wall, which according to legend, he raised with the aid of giants. Also according to legend, it is said he aided Durran with the construction of Storm&apos;s End.\n "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="The Night&apos;s King"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Night&apos;s King was a Lord Commander of the Night&apos;s Watch during its earliest years, not long after the Long Night ended and the Wall was completed. He is considered a legendary, half-mythical figure, not far removed from Bran the Builder. If he really did exist, it was almost eight thousand years ago - consider that while the Night&apos;s King was the thirteenth Lord Commander, at the time of the War of the Five Kings, Jeor Mormont is the 997th Lord Commander.
+
+However, the Night&apos;s King fell in love with a woman &apos;with skin as white as the moon and eyes like blue stars&apos;; he loved her though &apos;her skin was cold as ice&apos;, and when he gave his seed to her he gave her his soul as well. He brought her to the Nightfort and bound the brothers of the Night&apos;s Watch to his will through sorcery. He declared himself &apos;Night&apos;s King&apos; and ruled over the Wall and the Gift as his own. The King in the North and Joramun, the King-Beyond-the-Wall, joined forces to defeat him.
+
+After he was killed, it was discovered that he had been making human sacrifices to the Others - the White Walkers - and all records of him were destroyed, and uttering his name was forbidden, so it became lost to history. Nevertheless, it is believed he may have been a Bolton, a Magnar of Skagos, an Umber, a Flint, a Norrey, or a Woodfoot, though Old Nan claims to know a version of the tale where he was actually a Stark, brother to the King-in-the-North, named Bran.
+
+After the defeat of the Night&apos;s King, the rule was enforced that the castles of the Night&apos;s Watch along the Wall should never be fortified against approach from the south, so that they cannot oppose the lands south of the Wall which they are meant to defend. The downfall of the Night&apos;s King also resulted in the strict enforcement of the rule that the Night&apos;s Watch is meant to be politically neutral, as guardians who do not &apos;rule&apos; the Wall but who serve the realms of men."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

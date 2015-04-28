@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/lysa_arryn"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/lysa_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lysa was born into House Tully and was the second child of Lord Hoster Tully. She had an older sister, Catelyn and a younger brother, Edmure. Petyr Baelish was fostered with the Tullys and Lysa grew up with him.
+
+\nLysa married Jon Arryn during Robert&apos;s Rebellion. Lord Jon was the head of House Arryn and a leader of the rebel faction fighting to overthrow the Mad King. The rebels forged an alliance with House Tully through marriage, with Lord Eddard Stark married to Catelyn and the then-elderly Jon to the still young Lysa.
+
+\nAfter the rebel victory in the war, Robert Baratheon became King and appointed Jon as his Hand. Jon served the realm well for many years as Hand of the King. Lysa and Jon have a single son, Robin Arryn. Lysa and Jon spent the next seventeen years in the capital of King&apos;s Landing, never returning to the Eyrie in the Vale of Arryn.
+
+\nJon died immediately prior to the events of the series, sparking King Robert&apos;s search for a replacement. Lysa fled King&apos;s Landing for the safety of the Eyrie with Robin, then six-years old. Robin is the titular Lord Paramount of the Vale. However, Lysa will rule as the Lady Regent of the Vale until Robin comes of age. She dotes on her son. She is considered mentally unstable by Tyrion Lannister"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

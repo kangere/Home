@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        
+        <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:src="@drawable/dragon"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/draHeader"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.Biology"
+            android:textSize="30sp" />
+
+        <TextView
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Dragons have long serpentine bodies, with proportionately long necks and tails. Their bodies have four limbs: two short back legs and two large wings as forelimbs, a similar body-plan to a bat. In later generations, after the dragons went extinct, physical descriptions of dragons became so confused in memory that artwork sometimes depicted them as having six limbs - two wings growing out of their backs in addition to four legs - but this is inaccurate. The teeth and claws of adult dragons are as long and sharp as swords.
+
+As reptiles, Dragons are covered in scales, as well as spiny horns which run down their backs from head to tail. Particularly large ridges of horns frame the edges of their faces, running along the back of the skull and along the jawline, which grow bigger as they mature. Adult dragons possess two sets of frills which run along the backs of their necks and spine, two along the sides of their necks and another two centered closer to the backbone, for a total of four frills. These are formed from webbing that grows between longer horny spines. When dragons are agitated (or simply excited), they raise and flare these frills - similar to how a furry animal like a cat will raise the hackles on its back when agitated (or a feathered animal such as a goose will puff up its feathers), in an attempt to appear bigger so as to intimidate its enemies.
+Dragons are obligate carnivores, with diets consisting entirely of meat. Dragons need to roast their prey with their fire-breath before consuming it. Dragons can eat almost any kind of meat, anything from sheep to fish. Historical dragons ridden as beasts of war were known to eat fallen horses and even men on the battlefield. Fully grown dragons could swallow a live horse whole. \n " />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.Fire-Breath"
+            android:textSize="30sp" />
+
+        <TextView
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Probably the most famous attribute of dragons is their ability to breathe fire. Dragonflame can turn flesh to ash, melt steel, and crack stone. Older dragons can produce more intense flame for longer durations. Dragons seem to produce their fire-breath by expelling chemicals out of two tubes in the back of their throats: when these volatile substances combine, they undergo an intense reaction which bursts into a directed jet of fire. The bodies of dragons are also very resistant to fire, particularly their own flames, which don&apos;t even damage their own mouths as they expel them. Some believe that in many ways dragons are fire, fire given form as flesh: it is said that &apos;fire cannot kill a dragon&apos;.\n" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="3.Reproduction and Maturation"
+            android:textSize="30sp" />
+
+        <TextView
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Like most reptiles, dragons lay clutches of eggs. Dragon eggs are roughly the size of a human child&apos;s head, and as heavy as stone, so they need to be carried with two hands. The outer shell is covered in scales, with vastly different color patterns between eggs, usually matching the color of the dragon inside. Dragon eggs are notoriously difficult to hatch, though they can maintain the spark of life inside of them for decades if not centuries. The secret key to hatching the eggs seems to involve some form of blood magic: as the House words of the Targaryens hint, it requires &apos;fire and blood&apos;. To hatch them, dragon eggs must be burned in roaring flames, with which another creature is simultaneously being burned alive - a life in exchange for a life. In the wild this might just be a prey animal that the parent dragon kills, but human sacrifice will also work. 
+Newly hatched dragons are about the size of a small cat, but they grow very rapidly, reaching the size of a small dog in about one year, and the size of a small pony in only three or four years. It is unknown at what age dragons reach reproductive maturity. Dragons never stop growing as long as they live, and they can live for centuries, though many died in combat before reaching such an age. The largest Targaryen dragon, Balerion the Black Dread, lived for nearly two centuries and had a skull the size of a carriage.
+
+When dragons hatch, they do have horns around their faces and along their spines, but they are still quite small and relatively rounded. Their horns grow increasingly longer and sharper as they mature, quickly making the dragon appear more dangerous and menacing to prey or other dragons. The four lines of webbed frills along a dragon&apos;s spine only grow to a prominent size after they are about a year old." />
+    </LinearLayout>
+
+</ScrollView>

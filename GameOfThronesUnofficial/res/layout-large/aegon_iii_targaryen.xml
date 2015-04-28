@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="AEGON III TARGARYEN"
+            android:textSize="35sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Aegon III ascended to the Iron Throne after Aegon II died without any males heirs. He married Aegon II's daughter (and only surviving child) Jaehaera to seal the peace between the two rival branches of House Targaryen. However, she later died without issue, ending Aegon II's line entirely. Aegon III then remarried to Daenaera of House Velaryon, who was the mother of all of his subsequent children. 
+             Aegon III ruled the Seven Kingdoms long and well, repairing the extensive damage wrought by the civil war. Aegon III is nonetheless often blamed for the death of the last dragon, for which he became known as 'Aegon the Dragonbane', despite his later efforts to obtain Dragon eggs. At some point he had nine mages cross the sea to attempt to hatch his remaining cache of eggs. So few dragons had survived the civil war that they could not maintain a stable breeding population. Only four dragons had survived the Dance: Silverwing, the Cannibal, Sheepstealer (who was missing and presumed dead), and one other (who only hatched late in the war). The dragons were inbred to begin with, descending only from the original three brought to Westeros by Aegon I and his sisters. The final two dragons were hatched and then died during Aegon III's long reign: they were stunted, sickly creatures not much bigger than large dogs, and they did not live long. Some speculate that the Maesters poisoned the last dragons, because as men of science and learning they feared and hated the magical powers associated with the creatures. It is unknown if this was true, but the maesters certainly had no great love for the dragons and welcomed their demise when it came. 
+             Both of Aegon III's sons ruled as king but both died without issue. Afterwards, due to the new succession laws Aegon III had enacted, his three daughters were skipped over, and his younger brother Viserys II was crowned king. Therefore later Targaryens such as Daenerys do not descend from him. "
+            android:textSize="20sp" />
+    </LinearLayout>
+    
+
+</ScrollView>

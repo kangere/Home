@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="DAENERYS TARGARYEN"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/daenerys_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Daenerys is the only daughter and youngest child of King Aerys II Targaryen, the &apos;Mad King&apos;, and his sister-wife Rhaella. Her father died during the Sack of King&apos;s Landing, before she was even born. The usurper Robert Baratheon installed himself as king, having defeated Aerys in the conquest known as Robert&apos;s Rebellion. Her pregnant mother and young brother Viserys, fled to the island of Dragonstone, the ancestral home of House Targaryen, to escape Robert. Daenerys&apos;s brother Rhaegar Targaryen was also killed in the war and Robert&apos;s forces murdered his wife and children, Daenerys&apos;s sister-in-law, niece, and nephew, during the Sack of King&apos;s Landing.
+On the night Daenerys was born on Dragonstone, a vast storm raged. For this reason she is sometimes called &apos;Daenerys Stormborn&apos;. Her mother died soon after she was born, leaving her an orphan. As a baby, she was taken into exile in the Free Cities with her brother, Viserys, by loyal retainers, among them Ser Willem Darry.
+
+After years spent fruitlessly trying to raise support to retake the Iron Throne, Viserys and Daenerys were given sanctuary by Magister Illyrio Mopatis in the Free City of Pentos. She dreams of finding a peaceful home and a place to belong. She lives in constant fear of Viserys, who hits her when his temper is risen. Living under Viserys&apos; domination has left her meek and malleable."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

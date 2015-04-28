@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+         <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/valyrian_steel"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/valSteelHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:textSize="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Valyrian steel is a form of metal that was forged in the days of the mighty Valyrian Freehold. It is exceptionally sharp and tremendously strong, yet light, keeping its edge and requiring no maintenance.
+
+Valyrian steel is recognizable from its sharpness, as well as a distinctive rippled pattern visible in blades made from it.
+
+The secret of forging Valyrian steel was lost in the Doom of Valyria, after which creating new Valyrian steel weapons became impossible. Valyrian steel was expensive to begin with, so Valyrian steel swords such as House Stark&apos;s Ice were already valued heirlooms passed down from one generation to the next in powerful noble families. In the four centuries since the destruction of Valyria, surviving Valyrian steel weapons became priceless, and the few noble Houses who possessed such weapons treasured them even more closely.
+Skilled smiths can reforge Valyrian steel weapons by melting down existing ones, but it&apos;s a difficult process. Two smaller Valyrian steel swords can be made out of a larger greatsword, or a large greatsword made by melting down multiple smaller swords, but the amount of Valyrian steel in the world is finite and extremely rare.
+
+The master-blacksmiths of Qohor are noted as being among the few who can successfully reforge it - though even they don&apos;t know how to make entirely new Valyrian steel.
+
+Some maesters also bear a Valyrian steel link in the maester chain they wear. It is a sign that said maester has studied the &apos;higher mysteries&apos; - magic. This field of study, however, is mostly theoretical and its purpose is to demonstrate that magic, if it ever existed, is now extinct." />
+    </LinearLayout>
+
+</ScrollView>

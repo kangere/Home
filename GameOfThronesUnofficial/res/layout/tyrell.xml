@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/TyHeader"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/tyrell" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Tyrell is one of the Great Houses of Westeros. It rules over the Reach, a vast, fertile, and heavily-populated region of southwestern Westeros, from their castle-seat, Highgarden. It is currently led by Lord Mace Tyrell. His son Loras is a noted tournament knight (and secretly, the lover of Lord Renly Baratheon). Mace&apos;s daughter Margaery married Renly when he crowned himself king, to cement the alliance between Renly and her father. Following Renly&apos;s death, Margaery was then married to King Joffrey Baratheon before his assassination at his wedding feast.
+
+The Tyrell sigil is a golden rose on a green field. Their motto is, &apos;Growing Strong&apos;. "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="House Tyrell began as a cadet branch of House Gardener, the ancient Kings of the Reach. The Tyrells became senior servants of the main Gardener line, serving for centuries as castellans of the royal castle at Highgarden. Over time they rose to prominence as one of the strongest noble Houses in the Reach, and even intermarried with the royal line - though so did many other powerful Houses from the Reach.
+During the Targaryen Conquest, King Mern Gardener was burned alive at the Field of Fire by the Targaryen dragons, along with all of his immediate heirs. Subsequently, Mern&apos;s steward Harlen Tyrell voluntarily surrendered Highgarden to Aegon Targaryen. Aegon rewarded Harlen by making him Lord of Highgarden and Lord Paramount of the Reach - ahead of other Houses from the Reach which were actually more closely related to House Gardener. Chief among these is House Florent of Brightwater Keep, which claims direct male-line descent from the old Gardener kings, while House Tyrell only claim descent from House Gardener through the female line.
+
+
+House Tyrell&apos;s overall disposition is adequately represented by their sigil of a rose: a rose&apos;s beauty often hides the fact that it has thorns. The Tyrells do try to be just and fair most of the time, however this often lulls their enemies into thinking that like the Starks, they are utterly beholden to honorable conduct. In reality, the Tyrells are just as cunning as the Lannisters in court politics and intrigue, though they often prefer a more subtle approach. Thus they strike a pragmatic balance between the Starks&apos; honor and the Lannisters&apos; ruthlessness.
+Throughout history, House Tyrell has played by the strategy of following the sure path, siding with whoever is most likely to win in any conflict. During the Targaryen Conquest, they surrendered Highgarden to the invading forces of Aegon the Conqueror, and in return the Tyrells were elevated as the new Lords Paramount of the Reach. During Robert&apos;s Rebellion, House Tyrell remained loyal to House Targaryen, as Robert Baratheon was a rebel unlikely to win, and the Tyrells owed their rule of the Reach to the Targaryens. Forces of House Tyrell managed to inflict the only loss Robert suffered during the war, albeit an indecisive one, at the Battle of Ashford. However, the vast army and resources of House Tyrell were tied up on a siege of Storm&apos;s End (held for Robert by his brother; Stannis Baratheon). After the Mad King&apos;s death, the Tyrells surrendered and swore fealty to Robert Baratheon. 
+
+In the current generation, House Tyrell is a stable and honestly loving family, with none of the internal rivalries that are to be found in House Lannister and House Baratheon. Thus the relationships between Lord Mace and his children, and between siblings like Loras and Margaery, are genuine and uncomplicated. "
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="BRONN"
+            android:textSize="35sp" />
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/bronn_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bronn is a sellsword; a mercenary soldier whose service as a warrior is for hire. Not much is known about his past; When Tyrion Lannister introduced him to Tywin Lannister, Bronn said that his father is no one Lord Tywin would know. During a drinking game with Tyrion and Shae, Bronn claims that he killed a woman before he was 12 years old, though it was in self-defense as she was attacking him with an axe. Bronn also confirmed Tyrion&apos;s claim that Bronn has been beyond the Wall. When asked why he was there, he bluntly answers that he was &apos;working&apos;. Despite Bronn&apos;s avaricious nature, which is sneered at by more honorable knights, he is a skilled and dangerous fighter. His combat style centers around speed, dodging enemy attacks instead of blocking them. For this reason, he does not wear heavy armor or use shields, but instead relies on just his sword and knives. He is also a skilled archer and is apparently literate."
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

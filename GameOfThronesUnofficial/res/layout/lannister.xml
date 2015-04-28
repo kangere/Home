@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/LanHeader"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/lannister" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Lannister of Casterly Rock is one of the Great Houses of Westeros, one of its richest and most powerful families and oldest dynasties. The major characters Jaime, Cersei, and Tyrion and the recurring characters Tywin, Kevan, and Lancel are members of the house. Tywin is the head of House Lannister and Lord of Casterly Rock.
+
+Their lands are in the far west of the continent. Their seat is Casterly Rock, a massive rocky promontory overlooking the Sunset Sea which has had habitations and fortifications built into it over the millennia. They are the Lords Paramount of the Westerlands and Wardens of the West. House Lannister&apos;s Heraldry consists of a golden lion on a crimson background, and their House words are &apos;Hear me roar!&apos;, which is rarely mentioned. Their unofficial motto, which is as well known as the official one, is &apos;A Lannister always pays his debts&apos; - which is used much more often and mostly in negative context, though it can also be used in the original, literal sense.
+
+The incestuous relationship of Cersei and Jaime has been concealed in a conspiracy. Their son Joffrey Baratheon has claimed the Iron Throne on the premise that he was actually fathered by the late King Robert Baratheon. Lord Tywin is a key supporter of his reign in the War of the Five Kings. "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Lannister is one of the Great Houses of Westeros. Their lands are in the far west of the continent. Their seat is Casterly Rock, a castle on a rocky promontory overlooking the Sunset Sea. It overlooks the thriving city of Lannisport and sits atop the most productive gold mine in the Westerlands. They are the wealthiest family in the realm.
+
+Fair-haired, tall and handsome, the Lannisters are the blood of Andal adventurers who carved out a mighty kingdom in the western hills and valleys. Through the female line, they boast of descent from Lann the Clever, the legendary trickster of the Age of Heroes who swindled Casterly Rock from its previous rulers. They used to rule the Westerlands as the Kings of the Rock before swearing allegiance to the Targaryen family. The last King of the Rock, Loren Lannister, and the last King of the Reach, Mern Gardener, joined forces and fielded 60,000 men against Aegon the Conqueror. They were defeated by his dragons in a battle that came to be known as the &apos;Field of Fire&apos; and lost 4,000 men. They have since served the Targaryens and now King Robert Baratheon as the Lords Paramount of the Westerlands and Wardens of the West. The gold of Casterly Rock and the Golden Tooth has made them the wealthiest of the Great Houses.
+
+Tywin Lannister is the current head of the family. His father Tytos Lannister presided over a period of decline for the house. He frittered away much of their fortune on poor investments and allowed himself to be mocked at court creating a perception of weakness. Their vassals House Reyne of Castamere rebelled against Lord Tytos. Tywin put down the rebellion personally, extinguishing their house and re-establishing the fearsome reputation of House Lannister. His ruthlessness gave darker meaning to the common phrase &apos;A Lannister always pays his debts&apos; and was immortalized in the song &apos;The Rains of Castamere&apos;.
+
+Tywin has three children Cersei, Jaime, and Tyrion by his wife Joanna Lannister. Joanna died after giving birth to Tyrion. Tyrion is a dwarf and has a troubled relationship with Tywin. Cersei and Jaime are fraternal twins. Cersei is Queen of Westeros since Tywin arranged for her marriage to King Robert Baratheon in exchange for his support in Robert&apos;s Rebellion. She has a longstanding incestuous relationship with her brother Jaime. The two conspire to conceal their love and have passed their children (Joffrey, Myrcella, and Tommen) off as being the product of Cersei&apos;s marriage.
+
+
+ "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Military Strength"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Lannister can raise approximately 60,000 men in a relatively short period of time. As the richest house, the Lannisters&apos; forces are among the best-equipped in the Seven Kingdoms, though House Tyrell commands larger numbers.
+
+The Lannisters also command a modest fleet, berthed at Lannisport. The fleet was largely destroyed at anchor during the Greyjoy Rebellion in a pre-emptive strike led by Balon Greyjoy&apos;s brothers."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

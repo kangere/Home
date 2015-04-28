@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+         <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="DAERON II TARGARYEN"
+        android:textSize="25sp"/>
+         
+          <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Claiming that Daeron II is actually the product of an illegitimate relationship between Queen Naerys and her other brother, Prince Aemon the Dragonknight, Daemon Blackfyre claims the Iron Throne. Half the realm declares for him and the resulting civil war is known as the First Blackfyre Rebellion. This is a brutal and bitter conflict that kills many tens of thousands. Eventually, Daemon amasses enough strength to march on King's Landing, allied to the forces of his bastard half-brother Aegor 'Bittersteel' Rivers. Daeron II's sons, Baelor and Maekar, lead an army to stop him, assisted by another of Aegon IV's bastards, Brynden 'Bloodraven' Rivers. The resulting engagement, the Battle of the Redgrass Field, is one of the largest battles fought in Westerosi history. Bloodraven slays Daemon Blackfyre with arrows and then fights Bittersteel in single combat. The arrival of a Dornish army in support of the King routs the Blackfyre forces. Bittersteel flees the field with Daemon's surviving sons, taking them to safety in the Free Cities.
+ In thanks for the Dornish assistance on the Redgrass Field, Daeron II marries his younger sister Daenerys to Prince Maron Martell, formally bringing Dorne into the Seven Kingdoms. Due to the peaceable union, Dorne is allowed to maintain a number of its own customs, including allowing women equal inheritance rights and the ruler of Dorne is allowed to retain the title 'Prince'. 
+ The Great Spring Sickness tears through Westeros, killing King Daeron and most of his heirs. Aerys I Targaryen becomes king."
+        android:textSize="17sp"/>
+     
+     
+    </LinearLayout>
+
+</ScrollView>

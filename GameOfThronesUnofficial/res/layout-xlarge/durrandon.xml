@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="HOUSE DURRANDON"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Durrandon is a former Great House of Westeros. It ruled over the Stormlands until the War of Conquest. It also held much of the Riverlands until they lost them to House Hoare. The head of House Durrandon held the title of Storm King.
+
+The last King of the Durrandon dynasty, Argilac the Arrogant was killed by Orys Baratheon during the Last Storm. Baratheon took Argilac&apos;s daughter as his wife, as well as his sigil and words, taking over the Stormlands as vassal of his half-brother Aegon the Conqueror. \n"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="In The Books"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="In the A Song of Ice and Fire novels, House Durrandon was the dynasty that claimed descent from Durran Godsgrief, the first Storm King and founder of Storm&apos;s End. King Arrec of House Durrandon was the last Storm King who ruled the Riverlands, conquered by his ancestors three hundred years before, losing it to the ironborn led by King Harwyn Hardhand of House Hoare.
+
+House Durrandon seemingly left no other known surviving branches, and is officially extinct, but its bloodline lives on in the Baratheon dynasty."
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

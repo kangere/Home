@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="HardcodedText" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/peHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.THE KINGSGUARD"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" The Kingsguard is an elite group of seven knights, supposedly the greatest and most skilled warriors in all of Westeros, who serve as the royal bodyguard of the King of the Andals and the First Men. Their duty is to protect the king and the royal family from harm at all times. The Kingsguard swear the most holy of vows to fulfill their sacred duty, and - in theory - are meant to be the living exemplars of the pinnacle of knightly virtues. Like the brothers of the Night&apos;s Watch, members of the Kingsguard are sworn for life and are forbidden from owning land, taking a wife, or fathering children.
+
+The Kingsguard was created 300 years ago by the first Targaryen king, Aegon the Conqueror, when he united the Seven Kingdoms under a single monarchy and established the Iron Throne.
+
+Members of the Kingsguard wear gold plate and scale armor with white detailing and white armor.
+
+The deeds of every knight who has ever served in the Kingsguard is kept in a large book called The Book of Brothers. The book is stored in White Sword Tower and it is the responsibility of the current Lord Commander to keep all entries updated.
+ \n    "
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.MAESTERS"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Maesters, formally known as the Order of Maesters, are an order of scholars, healers, and learned men in the Seven Kingdoms. Due to their scientific and intellectual pursuits, they are sometimes referred to as &apos;the knights of the mind&apos;.
+
+Focusing on scientific knowledge and disdaining belief in magic, in the present day the Order of Maesters has largely eclipsed the older Alchemists&apos; Guild, which claims to possess arcane magical knowledge, but whose number, power, and abilities have waned over the centuries.
+
+The maesters are a secular organization, not a religious order, though they do swear sacred oaths to follow the duties and restrictions of their office. Unlike certain other organizations such as the Faith of the Seven, which has male and female priests, women are not allowed to join the maesters, and thus its membership is all-male. \n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="3.EUNUCHS"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Eunuchs are men who have had some or all of their sexual organs removed in order to make them more efficient servants or soldiers, as they are not distracted by lust or sexual matters. The practice is considered cruel in Westeros, where eunuchs are mistrusted; men are typically only castrated or gelded in the Seven Kingdoms as punishment for serious crimes such as rape. However, it is considered acceptable in many parts of Essos, as part of the vibrant slave trade which exists in many areas. Slave-eunuchs are a common sight in Essos, and the famous warrior-eunuchs produced in Slaver&apos;s Bay known as the Unsullied are among the most disciplined soldiers in the world.\n"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="4.WARD"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A ward is a member of a noble house who has been taken in by another noble family to be raised for a time. The practice varies, with it sometimes being undertaken voluntarily - to help prospective heirs learn the customs of other regions of Westeros as part of their education, for example - but also involuntarily, with the &apos;ward&apos; actually being as a &apos;hostage&apos; for his or her family&apos;s good behavior or until a ransom is paid. Sometimes, as part of marriage alliances, one of the betrothed is taken as a ward so he or she can get to know his or her future spouse.
+
+In cases of wards who are political hostages, because they are of noble blood and valuable in the peace agreement, they are not treated as mere prisoners to be thrown in a castle&apos;s dungeons. Such wards are treated with full courtly etiquette as noble guests, and quite often are treated as essentially foster children of their &apos;captor&apos;. Such hostage-wards are given free run of the castle they are staying in, eat at the castle lord&apos;s table, and are essentially raised alongside their own children. The only limit is that they are forbidden to leave the bounds of their host&apos;s lands and return to their original homes.
+
+While wards fall under the Lord&apos;s protection as a member of his household, their relationship is not technically seen as enjoying benefits of guest right, particularly for wards who are political hostages. Thus Theon Greyjoy was not accused of violating guest right when he betrayed the Starks, which would have been a far worse crime."
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</ScrollView>

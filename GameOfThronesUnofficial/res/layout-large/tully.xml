@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="HOUSE TULLY"
+            android:textSize="35sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/tully" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Tully is one of the Great Houses of Westeros. Its most senior member carries the title of Lord of Riverrun and Lord Paramount of the Trident. The current head is Lord Edmure Tully, son of the late Hoster Tully. The Tully sigil is a silver trout on a red and blue background. Their motto is &apos;Family, Duty, Honor.&apos;
+
+At the onset of the War of the Five Kings, House Tully came under attack by House Lannister and lent its support for House Stark when they came to their aid in the liberation of the Riverlands. House Tully has since been formally stripped of lands and titles for rebellion against the Iron Throne, with Lord Edmure a captive of House Frey following the Red Wedding.  \n"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Tully is one of the Great Houses of Westeros. Their lands are to the west of the continent. Their seat is Riverrun, a castle at the confluence of the Red Fork of the Trident with the Tumblestone. They rule over the Riverlands from the castle and the head of the house is the Lord of Riverrun.
+
+House Tully rose to prominence during the Wars of Conquest. Lord Edmyn Tully rebelled against the King of the Isles and the Riverlands, Harren the Black, to support the invading House Targaryen. Edmyn&apos;s fellow Riverlords followed his lead. When Aegon Targaryen established his rule from the Iron Throne he rewarded Edmyn, elevating the Tullys to Lords Paramount of the Riverlands.
+
+Its current head is Lord Edmure Tully. His sisters, Catelyn and Lysa, married Lords Eddard Stark and Jon Arryn during Robert&apos;s Rebellion, forming a powerful alliance of major houses."
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</ScrollView>

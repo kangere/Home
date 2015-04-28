@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/weirHeader"
+            android:textSize="40sp" />
+        
+         <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="480dp"
+            android:src="@drawable/weirood"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Weirwood is a species of deciduous tree found all over Westeros; it has white bark with five-pointed, blood-red leaves and sap. The heart trees are weirwood trees with faces carved on their barks found in the center of godswoods. The Children of the Forest are thought to have carved the faces that decorated the heart trees.
+
+During the Andal Invasion six thousand years ago, the Andals cut down most of the weirwood trees in southern Westeros, to suppress worship of the Old Gods in favor of the Andal&apos;s new religion, the Faith of the Seven. The only weirwoods still in the south are the handful of heart trees that survived in castle godswoods that were converted to secular gardens, instead of being destroyed. Weirwoods also survive in southern Westeros on the Isle of Faces in Gods Eye lake, in the southern Riverlands. Weirwoods only still grow in significant numbers in the forests of the North. Beyond the Wall, they are even more prevalent.
+
+The area around the Weirwood where Bran Stark meets the Three-eyed raven is shown to destroy wights. It is stated by a child of the forest that they &apos;hold no power here&apos;, though it is unclear whether it is because of the tree, the reason why the tree is there, or some other factor." />
+    </LinearLayout>
+
+</ScrollView>

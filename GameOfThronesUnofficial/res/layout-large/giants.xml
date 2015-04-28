@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        
+        <ImageView 
+             android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/giant"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/giantHeader"
+            android:textSize="35sp" />
+
+        <TextView
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Giants have a drastically different, more ape-like appearance. They tend to be about twice as large as a very tall human, about 12 to 14 feet in height, but not monstrously huge. A single giant is as strong as a dozen humans.
+
+They generally resemble descriptions of the Sasquatch (Bigfoot) or Yeti. They wear no clothing, but instead are covered in shaggy fur pelts, which are thicker below the waist. The fur of older giants becomes grey and streaked with white. Their heads are thrust forward from their shoulder blades but they have very short necks. They have squashed-in faces with square teeth and tiny eyes amidst folds of flesh. Their eyesight is poor and they snuffle constantly, smelling as much as they see.
+
+They have sloped chests, and their lower torsos are about half again as wide as their upper torsos. Their arms hang lower than a man&apos;s, while their legs are shorter than their arms, ending in splayed feet that need no shoes even in the coldest weather. The female giants look similar to the men.
+
+Giants are generally not as intelligent as the average human, though they are sapient and capable of speech. They speak the Old Tongue of the First Men. The giants are physically capable of speaking the Common Tongue of the Andals, and can learn it after instruction, it&apos;s just that the giants live so far to the north away from the Wall that they haven&apos;t really encountered the Common Tongue before.
+
+The giants do not have much in the way of advanced society or culture, barely possessing the most primitive Stone Age technology. They make and wear no clothing, because their pelts adequately provide all the protection they need. They do not generally possess technology more advanced than simply grabbing a large tree log and wielding it as a club. Some of them, however, are smart enough to tie large stone boulders to the end of the tree logs to make crude mauls. On a few occasions these are even sharpened to form basic stone axes. The giants ride huge mammoths as their steeds. The giants possess little if any large-scale political structure: they do not have kings, though particularly large, old and experienced giants who are veteran warriors often seem to act as basic chieftans or war-band leaders. A particularly large silver-back giant named Mag Mar Tun Doh Weg is the prominent ring-leader of the giants in Mance Rayder&apos;s army.
+
+The giants inhabit the far northern regions of the lands beyond the Wall, where humans will not encroach on them, perilously close to the Lands of Always Winter. They once roamed all of Westeros, but were pushed further and further north when the First Men migrated to the continent, starting twelve thousand years ago. In the present day they are almost extinct, even beyond the Wall: by the time Mance Rayder unified all of the wildlings, there were only a few hundred giants remaining. " />
+    </LinearLayout>
+
+</ScrollView>

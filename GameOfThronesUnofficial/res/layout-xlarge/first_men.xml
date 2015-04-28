@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/svFirstMen"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvFirstMen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/FirstHeader"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The First Men are the original human inhabitants of Westeros. They ruled the continent for millennia before the Andals invaded from the eastern continent of Essos. The Andals overran most of southern Westeros, but failed to take the North. While the blood of the First Men and the Andals has intermingled over thousands of years of dynastic marriages, the inhabitants of the North have the greatest amount of First Men blood in their veins and keep their traditions.
+ "
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The First Men invaded Westeros some twelve thousand years before the events of the series, crossing via a land-bridge from Essos in the vicinity of modern Dorne. They were resisted by the Children of the Forest, a semi-mythical diminutive race who ruled Westeros alone at this time. The Children, using magic, destroyed the land-bridge (forming the modern peninsula of Dorne and the shattered islands known as the Stepstones beyond) but were pushed back over the course of many years of warfare. Eventually, the First Men and the Children forged the Pact, signed on the Isle of Faces at the center of the vast lake known as Gods Eye. The First Men began to forge numerous kingdoms across the continent.
+
+The two races subsequently coexisted peacefully for millennia, and during this time the First Men converted to the religion of the Children, worshiping the Old Gods of the Forest. The Old Gods are nameless and uncountable spirits of nature, and their worship centers around sacred heart trees, weirwood trees which have had faces carved into their bark by the Children of the Forest. The fortresses and strongholds of the First Men in Westeros soon began to feature Godswoods, sacred garden groves of weirwoods centered around heart trees.
+
+About eight thousand years ago, both races came under attack from the White Walkers, a mysterious race of ice and cold from the uttermost north. In the War for the Dawn, the First Men and the Children unified to throw back the invasion. With the aid of giants and the Children, Bran the Builder built the Wall and would then build Winterfell and rule as the first King in the North. The First Men subsequently founded the Night&apos;s Watch to guard the Wall should the White Walkers ever return. After this war the Children began dwindling in numbers, with the last of them disappearing around the time that the Andals invaded Westeros, two millennia after the War for the Dawn according to tradition.\n"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Descendants Of The First Men"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Many of the people living in Westeros have at least some blood of the First Men in their ethnic makeup, though this is more common in the lower classes. Even so, the southern kingdoms of Westeros became so thoroughly dominated by the Andals and their culture, that Westeros is often referred to as &apos;the Land of the Andals&apos; in Essos. Two groups in Westeros, however, still claim majority descent from the First Men, and still actively embrace the old ways and religion of their ancestors: the Northmen and the wildlings. The Crannogmen of the Neck are themselves a unique offshoot of the Northerners.
+
+Ties of dynastic marriage were made between the North and the southern kingdoms over the next six thousand years, so that the blood of both peoples mingled together, a process that has continued under the rule of the Targaryen kings. For example, Ned Stark, of the ruling dynasty of the First Men of the North, married Catelyn Tully, of the predominantly Andal ruling dynasty of the Riverlands, resulting in all of their children having mixed blood. Still, while the Kingdoms south of the Neck consist of heavily mixed Andal and First Men ethnicity, the North is still predominantly First Men.
+
+
+The wildlings that live north of the Wall are descended from those First Men who were living north of the Wall when it was constructed, and have an even purer bloodline than the North: there is little, if any, Andal blood north of the Wall. Even in the Stark-held North, the usage of the language of the First Men - the Old Tongue - was eventually discontinued in favor of adopting the language of their Andal neighbors to the south. However, the language of the First Men is still actively used North of the Wall, though a large number of wildings are also fluent in the Common Tongue of the Andals. "
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="BAELOR  TARGARYEN"
+            android:textSize="30sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Upon his brother King Daeron I's death, Baelor is said to have begun his reign by walking the Boneway barefoot to make peace with Dorne. It is also said that he saved his cousin Aemon the Dragonknight from a snake pit, where he was bitten many times by the vipers whose venom could not kill him because of his faith in the Seven; this tale may simply be a metaphorical version of his visit to Dorne, referring to Dorne itself as a 'snake pit,' and the Dornish, 'vipers.' Whatever the truth, Baelor returned home having negotiated the marriage of his grand-nephew Daeron to Myriah Martell as a means of making peace with Dorne after Daeron I's failed conquest. Years after Baelor died, when Daeron was crowned as King Daeron II, he negotiated the marriage of his much younger sister Daenerys to the Prince of Dorne, thereby uniting the realms.
+
+Baelor apparently suffered from the Targaryen family's tendency towards insanity, though he exhibited it much differently than others. Instead of being violent or paranoid, Baelor was obsessed with religion and pacifism, to the point of absurdity. Baelor earned the contempt of his nobles by forcing Lord Belgrave to wash the feet of a leper. He tried to replace all the ravens that delivered messages with doves, wore a crown made only of flowers, and once banished all prostitutes from King's Landing. Baelor also onfined his sisters Daena, Rhaena, and Elaena in the Maidenvault so they would not tempt him with carnal thoughts.
+
+He also attempted to birth new dragons by praying over the dragon eggs, but his prayers went unanswered. Despite his zealous support of the Faith of the Seven, Baelor decided not to re-arm its old military orders, as Baelor was a man of peace who believed the only weapon the faithful should have is prayer.
+
+During his reign he had a stonemason named as the High Septon, a man that could carve stonework so beautifully that Baelor believed him to be The Smith in human form. While a fantastic stonecarver, the new High Septon could not read, write or recite any prayers. Rumor spread that Baelor's Hand, his uncle Viserys, had this High Septon poisoned to end the embarrassment to the realm. Baelor then raised a boy of eight years to High Septon, whom he claimed worked miracles, although the boy could not save the king's life on his deathbed. History says Baelor starved himself to death by prolonged fasting to cleanse himself of lust, but some believe he was poisoned by his Hand and uncle, Viserys. Baelor never consummated his marriage and therefore died childless, and was succeeded by his uncle. "
+            android:textSize="17sp" />
+    </LinearLayout>
+    
+
+</ScrollView>

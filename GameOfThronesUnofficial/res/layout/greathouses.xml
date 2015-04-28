@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/adsdkContent5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" >
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/bArryn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Arryn "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bBaratheon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/BarHeader"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bBolton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/BolHeader"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bBaelish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/BaeHeader"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bGreyjoy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/GreyHeader"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bLannister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/LanHeader"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bMartell"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/MarHeader"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bTyrell"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TyHeader"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+</ScrollView>

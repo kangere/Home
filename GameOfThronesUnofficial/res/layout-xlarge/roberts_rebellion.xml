@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/RobRebHeader"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The war was sparked when Prince Rhaegar Targaryen allegedly kidnapped Lyanna Stark. When Lyanna&apos;s father and eldest brother protested this act to King Aerys II Targaryen, the Mad King had them both killed in front of the entire Royal Court. Aerys then called for the heads of Lyanna&apos;s betrothed, Robert Baratheon, and her second brother Eddard Stark, who were under the care of Jon Arryn. Lord Arryn raised his banners in rebellion against these unjust acts and sent Robert and Eddard back to their lands to rally their men.
+
+House Tully joined Robert&apos;s side after Eddard and Jon married Catelyn and Lysa Tully, respectively, whilst House Tyrell and House Martell supported the Targaryens. While House Tully did support Robert, the always fractious lords of the Riverlands were heavily divided in the war, and many stayed loyal to the Targaryens. House Lannister sat out most of the war, only entering - on Robert&apos;s side - after Robert killed Rhaegar and his victory was a foregone conclusion. It is never stated which side House Greyjoy was on, but it is possible that they did not fight at all and remained neutral, saving their strength for their failed attempt to secede outright from the realm a few years later in the Greyjoy Rebellion.
+
+The rebellion climaxed with the Battle of the Trident, when the rebel armies destroyed the royalist host and killed Prince Rhaegar. Lannister forces, apparently having decided to support the king, arrived at King&apos;s Landing to help defend the capital, but then turned on the Targaryens, brutally sacking the city and killing King Aerys II and Rhaegar&apos;s children. Aerys&apos; other heirs, Viserys and Daenerys Targaryen, were spirited to safety across the sea by Targaryen loyalists before the garrison of Dragonstone (where the two children were being kept for their safety) could hand them over to Robert Baratheon. House Tyrell, whose main force had been held up in a lengthy siege at Storm&apos;s End, proclaimed loyalty to Robert soon after the sacking of King&apos;s Landing when Eddard Stark arrived with an army to relieve the siege.
+
+In the aftermath of the war it was discovered that Lyanna Stark had died, so Robert married Cersei Lannister in thanks for her father delivering him victory and to secure an alliance between the two houses.
+
+Elia Martell&apos;s brutal murder by the Lannisters during the Sack of King&apos;s Landing earned them the lasting enmity of the Martells. As a result of Elia&apos;s unnecessary and easily avoidable murder, Dorne became a hotbed of pro-Targaryen sentiment and it took lengthy negotiations on the part of Jon Arryn for them to grudgingly swear fealty to Robert. "
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</ScrollView>

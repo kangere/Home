@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/BolHeader"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/bolton" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="House Bolton of the Dreadfort is the ruling house of The North. Their lands are in the northeast of the formerly-owned Stark territories. Their stronghold is a castle called the Dreadfort and the head of the house is the Lord of the Dreadfort.
+
+House Bolton is infamous for its centuries-old practice of flaying their enemies alive, to the point that they use a flayed man as their House sigil. The Boltons supposedly gave up this practice after bending the knee to House Stark, and centuries later Lord Eddard Stark outlawed flaying in the North altogether, but the Boltons continue the practice.[3] Ramsay Snow is shown to practice flaying during the sacking of Moat Cailin, after which he is awarded the title of Ramsay Bolton.
+
+House Bolton&apos;s heraldry consists of a red flayed man upside-down on an x-shaped white cross over a field of black. Their official motto is &apos;Our Blades Are Sharp&apos;, though a common saying of members of the House is &apos;A naked man has few secrets, a flayed man none&apos;. "
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/HisHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The origins of House Bolton date back to at least the Age of Heroes, a savage age in which the houses of First Men waged war one upon the other. For centuries, House Bolton resisted the efforts of the Stark Kings of Winter to unify the North under their rule, killing several Starks in the process, and, according to rumors, keeping their skins as trophies and even wearing them as cloaks.
+
+Eventually, the Boltons were defeated and bent the knee to House Stark, giving up their practice of flaying their prisoners as sign of their submission. Nevertheless, they remained the second most powerful house of the North. The practice of flaying, however, was officially outlawed in the North just during the lordship of Eddard Stark. "
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</ScrollView>

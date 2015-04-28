@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/cuHeader"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1.PARAMOUR"
+            android:textSize="20sp" />
+
+        <TextView
+             android:textSize="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" \n A Paramour is an unmarried lover of a noble. While many lords in Westeros keep illicit lovers called &apos;mistresses&apos; or lowborn &apos;bedwarmers&apos;, &apos;paramours&apos; in the unique culture of Dorne are a publicly acknowledged and official relationship. Paramours are accorded a degree of formal social standing in Dorne, though this varies from relationship to relationship.
+
+Some lords will legally marry one woman for political reasons, but maintain long term sexual and emotional relationships with their paramour. Such paramours may be kept private, or as an open secret, while others are quite public. It is not uncommon for some paramours to be considered a lord&apos;s real wife in all but name. Paramours in Dorne are a holdover from centuries ago when the Rhoynar ancestors of the Dornish used to live in city-states along the Rhoyne River in Essos, with a sophisticated courtly culture.
+
+Dornish noblewomen may also have male paramours. Unlike the rest of the Seven Kingdoms, Dorne follows equal inheritance laws, and many women are politically powerful in their own right. Moreover, due to the more open sexual mores of Dornish culture, it is not unheard of nobles keeping paramours of the same sex.
+
+Sometimes, lords are simply not in a social position to marry their beloved. For example, Prince Oberyn Martell of Sunspear is officially unmarried, but he fell in love with Ellaria Sand - an acknowledged bastard daughter of House Uller. Even in the relaxed values of Dorne, Oberyn could not wed Ellaria because it would be marrying beneath his station. Instead, Oberyn simply formally acknowledged Ellaria as his paramour and now cohabits with her, and she functionally lives as his wife. Ellaria has also had daughters by Oberyn, and though he has also formally acknowledged them, their parents are still not legally considered married so they must continue to use the bastard surname &apos;Sand&apos;.
+
+The other regions of the Seven Kingdoms find paramours disgraceful. Some may be diplomatic and extend them courtesy, recognizing that Dornish culture is different from the rest of Westeros. Others will openly look down on them as little more than prostitutes, though paramours are relationships based on love, not money.
+
+Many marriages in Westeros are contracted not out of love but to cement political alliances, yet the Dornish think that people should be allowed to love whom they will. For their part, the Dornish think the other kingdoms are somewhat hypocritical: many lords in the rest of Westeros keep secret mistresses while trapped in loveless marriages, and the Dornish believe they are simply being honest by openly acknowledging these relationships. 
+ \n  " />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2.PROSTITUTION"
+            android:textSize="20sp" />
+
+        <TextView
+             android:textSize="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prostitution is tacitly legal in the Seven Kingdoms, in the sense that there is no official law preventing brothels from openly operating in the major cities and towns. Organized religion does discourage prostitution, and it is socially frowned upon, but it is nonetheless present, sometimes seen as an outlet for &apos;uncontrollable male sexual desires&apos;. Secular lords and kings have not (in general) tried to shut down prostitution, as taxing brothels is a good source of revenue.
+
+Social customs are somewhat different in Dorne, which has more liberal attitudes towards sexuality. A holdover from the old court culture of their Rhoynar ancestors&apos; city-states on the eastern continent is that Dornish society still contains a group of elite courtesans, known as &apos;paramours&apos;. Paramours are the unmarried lovers of Dornish nobles, and can be male or female. They are highly trained in courtly culture, and strictly speaking are not prostitutes. Some are even functionally treated as wives in all but name. Outsiders from the other kingdoms often dismissively think of Dornish paramours as mistresses, or as simple prostitutes.
+
+Despite their vows of celibacy, some of the officers of the Night&apos;s Watch have been known to frequent a brothel in Mole&apos;s Town, a village in the Gift which is the settlement of commoners (i.e. including women, and prostitutes) located closest to the Wall.\n " />
+    
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="3.SLAVERY"
+            android:textSize="20sp" />
+        
+        <TextView
+             android:textSize="17sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+          
+            android:text="Slavery has been illegal in the Seven Kingdoms for thousands of years. Slavery is considered an abomination by both the Faith of the Seven and the worshipers of the Old Gods of the Forest. It was illegal in Westeros long before there even were &apos;Seven Kingdoms&apos;, and the unification of the Seven Kingdoms in the Targaryen Conquest three hundred years ago only served to strengthen the enforcement of this prohibition.
+
+Even selling criminals to foreign slavers from Essos is considered a heinous crime. When Lord Jorah Mormont sold some poachers he caught on his lands to foreign slavers, he fled into exile to avoid execution.
+
+The ironborn push the limits of this with their practice of taking thralls, but they are technically not slaves, as even the ironborn raiders don&apos;t believe in &apos;slavery&apos; as such. Thralls are captured in raids, by &apos;paying the iron price&apos;, but cannot be bought or sold like animals. The ironborn generally look down on selling slaves, as they still think of their captives as human beings, albeit on the bottom rung of society. Thralls are more like &apos;prisoners of war&apos;. The children of a thrall may become free so long as they convert to the religion of the Drowned God.
+
+While this hasn’t been entirely confirmed, the Free Folk who live Beyond the Wall - who also descend from the First Men and worship the Old Gods - do not appear to practice slavery either. In sharp contrast with Westeros, slavery is widespread throughout the continent of Essos, across the Narrow Sea. Large-scale chattel slavery has been practiced in Essos for thousands of years, since the dawn of recorded civilization. Indeed, it would be easier to list the few places in Essos where slavery is not practiced: the Free City of Braavos, one or two of the other northern Free Cities such as Pentos which Braavos has managed to force to abolish slavery (but only nominally), and Lhazar. The slave trade is so pervasive in most of Essos that in many ways, slaves are used as a form of currency. Indeed, the slave trade is one of the pillars of the international economy in Essos."
+            />
+        
+        
+    
+    </LinearLayout>
+
+</ScrollView>
